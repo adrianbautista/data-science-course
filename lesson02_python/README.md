@@ -23,9 +23,10 @@
   * github issues
   * speakers
   * individual goals
-  
+  * current events
 
-* current events
+ 
+#### Python
 * Questions from readings or preparations
 * oop
 * scripts, shells, interpreters, notebooks
@@ -34,6 +35,8 @@
 * python data structures
 * flow
 * functions, classes, modules
+		* methods, self, inheritance, main(),__name__
+
 * biological help
 
 
