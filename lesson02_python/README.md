@@ -1,5 +1,7 @@
 # Intro to Python (for Data Science)
 
+![](https://www.python.org/~guido/images/license.jpg)
+
 ## Objectives
 
 * To understand the primary data structures in python and the do's and don'ts of their functionality
@@ -27,20 +29,23 @@
 
  
 #### Python
-* Questions from readings or preparations
-* oop
-* scripts, shells, interpreters, notebooks
-* R ?
-* digital help
-* python data structures
-* flow
-* functions, classes, modules
-		* methods, self, inheritance, main(),__name__
 
+*[slides](slides.pdf)*
+
+
+* Questions from readings or preparations
+* Bonus question: Who gets credit for the name "Python"?
+  * [Origin of BDFL](origin_of_bdfl.md)
+* OOP I did it again
+* Scripts, shells, interpreters, notebooks
+* R ?
+* Digital help
+* Python data structures
+* Flow
+* Functions, classes, modules
+		* methods, self, inheritance, main(),__name__
 * biological help
 
-
-* [slides](slides.pdf)
 
 
 ## After

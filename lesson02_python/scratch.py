@@ -1,6 +1,3 @@
-#!/usr/bin/python
-import serpent
-
 class data_scientist:
 	tool = 'python'
 	yearsofexperience = 20
@@ -16,10 +13,11 @@ class alien(data_scientist):
 def main():
 	bug = alien()
 
-	print "This alien's superpower is %s" % (bug.superpower)
+	print "This alien's superpower is %s " % (bug.superpower)
 
 	name = raw_input("Enter name of data scientist:")
 	print "The Data Scientist's name is: %s" % (name)
 
 if __name__ == "__main__":
 	main()
+
