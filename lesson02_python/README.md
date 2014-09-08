@@ -18,10 +18,30 @@
 
 ## During
 
-### Questions?
+* class.in.context
+  * projects
+  * github issues
+  * speakers
+  * individual goals
+  
 
-### Slides
+* current events
+* Questions from readings or preparations
+* oop
+* scripts, shells, interpreters, notebooks
+* R ?
+* digital help
+* python data structures
+* flow
+* functions, classes, modules
+* biological help
+
 
 * [slides](slides.pdf)
 
+
 ## After
+
+* your coding blog
+* issues or questions
+* numpy and the matrix
