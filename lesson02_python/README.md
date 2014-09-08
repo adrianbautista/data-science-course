@@ -32,6 +32,8 @@
 
 *[slides](slides.pdf)*
 
+* [Python Tutorial](https://docs.python.org/2/tutorial/index.html)
+
 
 * Questions from readings or preparations
 * Bonus question: Who gets credit for the name "Python"?
@@ -40,7 +42,8 @@
 * Scripts, shells, interpreters, notebooks
 * R ?
 * Digital help
-* Python data structures
+* Python (data structures)[https://docs.python.org/2/tutorial/datastructures.html]
+* Strings!
 * Flow
 * Functions, classes, modules
 		* methods, self, inheritance, main(),__name__
@@ -50,10 +53,17 @@
 
 ![](http://note.io/1xzQbMD)
 
+@dontusethiscode
+
 
 
 ## After
 
+* Unhomework - [wordcount.py](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/lesson02_python/google-python/google-python-exercises/basic/wordcount.py)
 * your coding blog
 * issues or questions
 * numpy and the matrix
+
+## Even More Recommended Resources
+
+* [Piazza's MIT Class on Python](http://web.mit.edu/6.s189/www/materials.html)
