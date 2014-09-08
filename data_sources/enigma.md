@@ -1,6 +1,6 @@
 #### Enigma Data ####
 
-Enigma is a data search and discovery platform structured on top of the broadest collection of public data on the market. Enigma allows users to access information from across thousands of previously disparate and siloed public data sources from a single portal.
+[Enigma](enigma.io) is a data search and discovery platform structured on top of the broadest collection of public data on the market. Enigma allows users to access information from across thousands of previously disparate and siloed public data sources from a single portal.
 
 Enigma's a local outfit who's very excited to have GA Data Science students use its platform.
 
