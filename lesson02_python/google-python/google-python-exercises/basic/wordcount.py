@@ -66,7 +66,7 @@ class WordCounter(object):
       self.check_for_word(sanitized_word)
 
   def sanitize_word(self, word):
-    return re.sub('[^a-zA-Z0-9]', '', word)
+    return re.sub('[^a-zA-Z0-9]', '', word).lower()
 
   def check_for_word(self, word):
     if word in self.word_dict:
