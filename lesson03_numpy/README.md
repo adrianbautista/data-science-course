@@ -17,7 +17,9 @@
 
 ## Before
 
-* 
+* This [linear algebra reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) is a must read, particularly as a good general review on notation and concepts.
+* This [short review](http://codebright.wordpress.com/2011/10/07/linear-algebra-review-and-numpy/), which is a Python version of some of the linear algebra review from Andrew Ng's machine learning course on Coursera, will introduce some light matrix manipulation in numpy.
+* Finally, we find the [cookbook](http://wiki.scipy.org/Cookbook) from SciPy to be a useful bookmark–I recommend going through the examples from the "numpy arrays" and "linear algebra" sections.
 
 ## During
 
