@@ -49,29 +49,40 @@ import code
 class WordCounter(object):
   def __init__(self, filename):
     self.filename = filename
+    self.word_text = ''
+    self.words = []
     self.word_dict = {}
 
   def print_words(self):
-    parsed_file = self.read_filename()
-    words = self.split_file(parsed_file.read())
-    self.count_words(words)
-    print self.word_dict
+    self.check_for_word_count_tuple()
+    for word_count in self.word_count_tuple:
+      print "{word_count[0]}: {word_count[1]}".format(word_count=word_count)
 
-  def print_top():
-    # parsed_file = self.read_filename()
-    # words = self.split_file(parsed_file.read())
-    # self.count_words(words)
-    # print self.word_dict
-    print('STILL NEED TO IMPLEMENT')
+  def print_top(self):
+    self.check_for_word_count_tuple()
+    for word_count in self.word_count_tuple[0::21]:
+      print "{word_count[0]}: {word_count[1]}".format(word_count=word_count)
 
-  def read_filename(self):
-    return open(self.filename, 'r')
+  def check_for_word_count_tuple(self):
+    try:
+      self.word_count_tuple
+    except AttributeError:
+      self.generate_word_count_tuple()
 
-  def split_file(self, file_string):
-    return  file_string.split()
+  def generate_word_count_tuple(self):
+    self.read_file()
+    self.split_file()
+    self.count_words()
+    self.order_words()
 
-  def count_words(self, words):
-    for word in words:
+  def read_file(self):
+    self.word_text = open(self.filename, 'r').read()
+
+  def split_file(self):
+    self.words = self.word_text.split()
+
+  def count_words(self):
+    for word in self.words:
       sanitized_word = self.sanitize_word(word)
       self.check_for_word(sanitized_word)
 
@@ -81,8 +92,11 @@ class WordCounter(object):
   def check_for_word(self, word):
     if word in self.word_dict:
       self.word_dict[word] += 1
-    else:
+    elif len(word):
       self.word_dict[word] = 1
+
+  def order_words(self):
+    self.word_count_tuple = sorted(self.word_dict.items(), key=lambda x: x[1], reverse=True)
 
 ###
 
