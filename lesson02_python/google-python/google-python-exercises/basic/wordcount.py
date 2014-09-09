@@ -38,12 +38,41 @@ print_words() and print_top().
 """
 
 import sys
+import re
 
 # +++your code here+++
 # Define print_words(filename) and print_top(filename) functions.
 # You could write a helper utility function that reads a file
 # and builds and returns a word/count dict for it.
 # Then print_words() and print_top() can just call the utility function.
+class WordCounter(object):
+  def __init__(self, filename):
+    self.filename = filename
+    self.word_dict = {}
+
+  def print_words(self):
+    words = self.split_file()
+    self.count_words(words)
+
+  def print_top():
+    print('STILL NEED TO IMPLEMENT')
+
+  def split_file(self):
+    return self.filename.split()
+
+  def count_words(self, words):
+    for word in words:
+      sanitized_word = self.sanitize_word(word)
+      self.check_for_word(sanitized_word)
+
+  def sanitize_word(self, word):
+    return re.sub('[^a-zA-Z0-9]', '', word)
+
+  def check_for_word(self, word):
+    if word in self.word_dict:
+      self.word_dict[word] += 1
+    else:
+      self.word_dict[word] = 1
 
 ###
 
@@ -56,10 +85,12 @@ def main():
 
   option = sys.argv[1]
   filename = sys.argv[2]
+  word_counter = WordCounter(filename)
+
   if option == '--count':
-    print_words(filename)
+    word_counter.print_words()
   elif option == '--topcount':
-    print_top(filename)
+    word_counter.print_top()
   else:
     print 'unknown option: ' + option
     sys.exit(1)
