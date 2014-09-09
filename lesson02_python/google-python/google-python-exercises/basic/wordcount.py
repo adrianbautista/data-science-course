@@ -39,6 +39,7 @@ print_words() and print_top().
 
 import sys
 import re
+import code
 
 # +++your code here+++
 # Define print_words(filename) and print_top(filename) functions.
@@ -51,14 +52,23 @@ class WordCounter(object):
     self.word_dict = {}
 
   def print_words(self):
-    words = self.split_file()
+    parsed_file = self.read_filename()
+    words = self.split_file(parsed_file.read())
     self.count_words(words)
+    print self.word_dict
 
   def print_top():
+    # parsed_file = self.read_filename()
+    # words = self.split_file(parsed_file.read())
+    # self.count_words(words)
+    # print self.word_dict
     print('STILL NEED TO IMPLEMENT')
 
-  def split_file(self):
-    return self.filename.split()
+  def read_filename(self):
+    return open(self.filename, 'r')
+
+  def split_file(self, file_string):
+    return  file_string.split()
 
   def count_words(self, words):
     for word in words:
