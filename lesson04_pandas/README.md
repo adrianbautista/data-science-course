@@ -9,7 +9,7 @@
 
 ## Before
 
-* Submit a file with your project idea, data sources, and audience
+* [Submit a file](https://drive.google.com/folderview?id=0B2_NWQOfrbk-eWN5SWItazBuSGc&usp=sharing) with your project idea, data sources, and audience
 
 * Review [Python and Numpy Exercises](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/lesson03_numpy) from the curriculum
 
