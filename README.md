@@ -58,3 +58,5 @@
  **11/12/2014** : Presentation Workshop
  
  **11/17/2014** : Final Presentations
+ 
+ <!-- To remove dates: http://regexr.com/39gbs --> 
