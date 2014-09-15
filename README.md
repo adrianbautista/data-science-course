@@ -40,11 +40,11 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  
  **9/15/2014** : Pandas
  
- **9/17/2014** : Experimental Design
+ **9/17/2014** : Data Visualization in Python
  
- **9/22/2014** : Matplotlib and EDA
+ **9/22/2014** : Experimental Design
  
- **9/24/2014** : Maps
+ **9/24/2014** : Exploratory Data Analysis
  
  **9/29/2014** : Unit 1 Review
  
