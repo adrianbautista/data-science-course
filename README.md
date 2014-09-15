@@ -4,7 +4,7 @@
 
 ## Upcoming Project Activity:
 
-* 9/17/14 Project Idea Due
+* 9/17/14 [Project Idea](FinalProjects.md) Due
 * 9/24/14 Dataset related to Project Due
 * 10/1/14 Presentations with your data on Exploratory Data Analysis
 
