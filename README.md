@@ -22,8 +22,10 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
 ### Submitting Assignments
 
 * Linkable assignments, such as gists, can be submitted by posting to [this submission form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform?usp=send_form).
-* Some assigments may require submitting via google drive.  These should include the student last name in the filename and be placed in the appropriate folder of the [submissions google drive folder](https://drive.google.com/a/scaleanalytics.com/#folders/0B2_NWQOfrbk-WWhWNHROaDQ2YU0).
 
+<!--
+* Some assigments may require submitting via google drive.  These should include the student last name in the filename and be placed in the appropriate folder of the [submissions google drive folder](https://drive.google.com/a/scaleanalytics.com/#folders/0B2_NWQOfrbk-WWhWNHROaDQ2YU0).
+-->
 
 
 
