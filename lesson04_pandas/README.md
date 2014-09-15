@@ -20,6 +20,8 @@
 ## During
 
 * We'll review dictionaries, lists, and data frames with this [notebook](http://nbviewer.ipython.org/github/teachingdatascience/data-science-course/blob/forstudentviewing/lesson04_pandas/lab04.ipynb).
+* Given extra time, work through the "quiz" accessible [here](http://nbviewer.ipython.org/github/teachingdatascience/data-science-course/blob/forstudentviewing/lesson04_pandas/Lab_04_quiz.ipynb).
+
 
 ## After
 
