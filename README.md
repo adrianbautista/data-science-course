@@ -8,8 +8,8 @@
 
 For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/TeachingDataScience/data-science-course/issues)
 
-    * Chris will be reviewing each issue and will assign it to Ed, Dave or himself.
-    * Students and other instructors following the repository will also be able to address the issue, improving response time.
+* Chris will be reviewing each issue and will assign it to Ed, Dave or himself.
+* Students and other instructors following the repository will also be able to address the issue, improving response time.
     
     
 **Office Hours**
