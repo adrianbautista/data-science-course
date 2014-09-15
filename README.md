@@ -2,6 +2,12 @@
 
 *This repo includes materials for the General Assembly Data Science course in NYC. Navigate the directory structure to find what you're looking for. The `README.md` files are often the most central in a directory, and will display by default when you navigate on github.*
 
+## Upcoming Project Activity:
+
+* 9/17/14 Project Idea Due
+* 9/24/14 Dataset related to Project Due
+* 10/1/14 Presentations with your data on Exploratory Data Analysis
+
 ### Getting Help
 
 **Github Issues**
