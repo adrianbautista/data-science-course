@@ -77,4 +77,12 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  **11/17/2014** : Final Presentations
  
  
- <!-- To remove dates: http://regexr.com/39gbs --> 
+ 
+ <!-- 
+ 
+ To remove dates: http://regexr.com/39gbs 
+ 
+ --> 
+ 
+ 
+ 
