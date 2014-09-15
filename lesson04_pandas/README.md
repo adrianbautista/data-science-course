@@ -17,10 +17,9 @@
 
 * Learn the basics of [markdown](http://daringfireball.net/projects/markdown/syntax)
   
-
-
 ## During
-* [Research Computing Python Data PYNBs](https://github.com/ResearchComputing/Meetup-Fall-2013/tree/master/python): We'll be working with this set of python notebooks from an excellent course exclusively devoted to pandas
+
+* We'll review dictionaries, lists, and data frames with this [notebook](http://nbviewer.ipython.org/github/teachingdatascience/data-science-course/blob/forstudentviewing/lesson04_pandas/lab04.ipynb).
 
 ## After
 
@@ -31,3 +30,9 @@ These two 'after market' tutorials are excellent resources to further confirm yo
 * [Julia Evans Pandas Cookbook](https://github.com/jvns/pandas-cookbook): Great resource with eamples from weather, bikes and 311 calls
 
 * [Learn Pandas Tutorials](https://bitbucket.org/hrojas/learn-pandas): A great series of Pandas tutorials from Dave Rojas
+
+#### Other links
+
+* Those looking for a more intensive read, Hadley Wickham's paper on the [Split-Apply-Combine Strategy](http://www.jstatsoft.org/v40/i01/paper) is a fantastic read, though dense. The code is also in R (Wickham is an R developer), but the methodology still perfectly applies.
+
+* [Research Computing Python Data PYNBs](http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/tree/master/python/): There are a ton of additional data sets and lectures about pandas. Consider going through these to continue practicing your python data manipulation.
