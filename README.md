@@ -29,7 +29,8 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
 
 
 
- ## Course Syllabus
+
+## Course Syllabus
  
  **9/3/2014** : Introduction To Data Science
  
