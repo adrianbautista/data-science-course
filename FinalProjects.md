@@ -9,8 +9,6 @@
 
 ## Background
 
-# Final Project
-
 The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should definitely talk to your instructors and classmates about them.
 
 Address a data­-related problem in your professional field or in a field you're interested in. Pick a subject that you're passionate about; if you're strongly interested in the subject matter it'll be more fun for you and you'll probably produce a better project!
