@@ -7,6 +7,8 @@
 
 ## Unit Project 3: Project Draft
 
+## Final Submissions and Presentations!!
+
 ## Background
 
 The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should definitely talk to your instructors and classmates about them.
