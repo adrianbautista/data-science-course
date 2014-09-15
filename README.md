@@ -78,11 +78,11 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  
  
  
- <!-- 
+<!-- 
  
  To remove dates: http://regexr.com/39gbs 
  
- --> 
+--> 
  
  
  
