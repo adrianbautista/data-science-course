@@ -45,15 +45,6 @@ The final project should include at least the following components:
 
 Optionally, it would be exciting to actually implement the system based on your work, and to the degree this is possible within the time frame of the course, it is certainly encouraged!
 
-By the second unit project, you'll have some data identified and an outline including the following:
-
- * The problem you are solving
- * Description of data set and how you will obtain it
- * Techniques you plan to use and why
- * Hypotheses
- * Possible practical/business applications
-
-
 Before the end of the class, you will complete provid a website (a github wiki is fine, or you can get fancier if you like), with associated presntation, showcasing your project. The site should target a technical audience, but have general appeal
 
 Your final project will include:
