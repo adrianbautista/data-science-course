@@ -17,7 +17,7 @@
 
 * **Assignment:** [Submit a Project Idea!](../project_idea_submission.md)
 * Pick a dataset from [Enigma](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/s_data_sources/enigma.md) or, if you like, related to your project topic to use during a class exercise.
-* Review the Rougier [MatPlotLib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/)
+* Skim the Rougier [MatPlotLib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/)
 
   
 ## During
