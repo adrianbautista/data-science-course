@@ -40,6 +40,8 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
 
 ## Course Syllabus
  
+#### Unit 1: Exploratory Data Analysis with Python
+
  **9/3/2014** : Introduction To Data Science
  
  **9/8/2014** : Data Collection And Extraction
@@ -50,13 +52,15 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  
  **9/17/2014** : Data Visualization in Python
  
- **9/22/2014** : Experimental Design
+ **9/22/2014** : The A.C.E.S. Framework for Data Exploration
  
- **9/24/2014** : Exploratory Data Analysis
+ **9/24/2014** : Hypothesis Testing with Data
  
  **9/29/2014** : Unit 1 Review
  
- **10/1/2014** : Intro To Machine Learning
+ **10/1/2014** : Unit 1: Project Presentations / Intro To Machine Learning
+ 
+ #### Unit 2: Machine Learning
  
  **10/6/2014** : TSA
  
@@ -75,6 +79,8 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  **10/29/2014** : KNN and K-means
  
  **11/3/2014** : Machine Learning Review
+ 
+ #### Unit 3: Advanced Techniques and Data Communication
  
  **11/5/2014** : Distributed Processing
  
