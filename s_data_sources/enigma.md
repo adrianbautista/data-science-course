@@ -6,6 +6,7 @@ Enigma's a local outfit who's very excited to have GA Data Science students use 
 
 Feel free to sign up and explore, and they've assigned our class a custom user-rep to answer any questions as well.
 
+Matt's suggestions:
 
 ##### Favorite Datasets #####
 - U.S. Customs: [Import Records](https://app.enigma.io/table/enigma.trade.ams.summary.2014) (*26.1M rows!*)
@@ -24,3 +25,7 @@ Feel free to sign up and explore, and they've assigned our class a custom user-r
 - [World Bank: 113 datasets](https://app.enigma.io/search/source/org.worldbank)
 - [NYC Open Data: multiple sources](https://app.enigma.io/search/source/us.states.ny)
 - [data.gov.uk: Gov. Spending, Home Sale Prices, and more](https://app.enigma.io/search/source/gov.uk)
+
+
+Dave's favorite dataset:
+- [https://app.enigma.io/table/org.un.comtrade.68](https://app.enigma.io/table/org.un.comtrade.68)
