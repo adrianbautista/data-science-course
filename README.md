@@ -60,7 +60,8 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  
  **10/1/2014** : Unit 1: Project Presentations / Intro To Machine Learning
  
- #### Unit 2: Machine Learning
+ 
+#### Unit 2: Machine Learning
  
  **10/6/2014** : TSA
  
@@ -80,7 +81,8 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  
  **11/3/2014** : Machine Learning Review
  
- #### Unit 3: Advanced Techniques and Data Communication
+ 
+#### Unit 3: Advanced Techniques and Data Communication
  
  **11/5/2014** : Distributed Processing
  
