@@ -50,7 +50,7 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
  
  **9/15/2014** : Pandas
  
- **9/17/2014** : Data Visualization in Python
+ **9/17/2014** : [Data Visualization in Python](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/05_Data_Visualization)
  
  **9/22/2014** : The A.C.E.S. Framework for Data Exploration
  
