@@ -27,5 +27,5 @@ Matt's suggestions:
 - [data.gov.uk: Gov. Spending, Home Sale Prices, and more](https://app.enigma.io/search/source/gov.uk)
 
 
-Dave's favorite dataset:
+Dave's favorite shipping category that he learned about from Enigma:
 - [https://app.enigma.io/table/org.un.comtrade.68](https://app.enigma.io/table/org.un.comtrade.68)
