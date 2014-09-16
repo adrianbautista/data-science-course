@@ -15,9 +15,7 @@
 
 ## Before
 
-* Choose a dataset from enigma.io to visualize during an in-class exercise
-  * **Note:** We'll be working in pairs, so make sure you have the data accessible in a dataframe (or know that its easily accessible)
-  * **Note:** If you have a data set for your project, feel free to use that.
+* **Assignment:** [Submit a Project Idea!](../project_idea_submission.md)
 * Review the Rougier [MatPlotLib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/)
 
   
