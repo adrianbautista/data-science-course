@@ -18,14 +18,15 @@ For general or specific course help, students can get the fastest response by po
 
 * Chris will be reviewing each issue and will assign it to Ed, Dave or himself.
 * Students and other instructors following the repository will also be able to address the issue, improving response time.
-    
-    
+
+
 **Office Hours**
 
 Ed and Dave will hold regular office hours, and Chris will hold regular weekend sessions.
 
 Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&continue=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&followup=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&scc=1), and slots can be signed up for electronically.
 
+Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electonically.
 
 ### Submitting Assignments
 
