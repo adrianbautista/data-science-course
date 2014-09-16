@@ -3,9 +3,29 @@
 
 ## Unit Project 1: Exploratory Data Analysis
 
+* Project topic area determined
+* Sample data related to topic area accessed
+* Well organized ipython notebook with code and output.
+* Presentation: Exploratory data presentation related to data
+
+**Additional Materials**
+
+* List of potential mentors or field experts to contact
+
 ## Unit Project 2: Prediction and Classification
 
+* Full scope of data for project is acquired
+* Clearly defined project goals, scope, questions, hypotheses and methods have been determined
+* Presentation: Prediction/Classification Presented to the class
+* Well crafted ipython notebook explaining data
+
 ## Unit Project 3: Project Draft
+
+* Github Wiki, Repository and/or Website Created
+* Broad set of visualizations to optimize from
+* Well crafted ipython notebook, or series of notebooks, with legible, commented code
+* Ample, clear, prose introducing the topic, the problem, the hypotheses, the stakeholders and the potential impact.
+* 
 
 ## Final Submissions and Presentations!!
 
