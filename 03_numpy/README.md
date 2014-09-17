@@ -25,9 +25,9 @@
 ## During
 
 * [Python Exercises](python_exercises.md)
-* [Running Code in the I-Python Notebook](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/lesson03_numpy/lec_03_IPythonNBIntro.ipynb)
-* [Linear Algebra Review](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/lesson03_numpy/lec_03_linear_algebra.ipynb)
-* [Numpy and Pandas](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/lesson03_numpy/lec_03_numpy_and_pandas.ipynb)
+* [Running Code in the I-Python Notebook](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/03_numpy/lec_03_IPythonNBIntro.ipynb)
+* [Linear Algebra Review](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/03_numpy/lec_03_linear_algebra.ipynb)
+* [Numpy and Pandas](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/03_numpy/lec_03_numpy_and_pandas.ipynb)
 
 ## After
 * Complete (duplicate) and submit the [10 minutes to Pandas exercises](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)

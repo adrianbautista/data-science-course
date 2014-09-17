@@ -1,11 +1,12 @@
 #### Enigma Data ####
 
-[Enigma](enigma.io) is a data search and discovery platform structured on top of the broadest collection of public data on the market. Enigma allows users to access information from across thousands of previously disparate and siloed public data sources from a single portal.
+[Enigma](http://www.enigma.io) is a data search and discovery platform structured on top of the broadest collection of public data on the market. Enigma allows users to access information from across thousands of previously disparate and siloed public data sources from a single portal.
 
 Enigma's a local outfit who's very excited to have GA Data Science students use its platform.
 
 Feel free to sign up and explore, and they've assigned our class a custom user-rep to answer any questions as well.
 
+Matt's suggestions:
 
 ##### Favorite Datasets #####
 - U.S. Customs: [Import Records](https://app.enigma.io/table/enigma.trade.ams.summary.2014) (*26.1M rows!*)
@@ -24,3 +25,7 @@ Feel free to sign up and explore, and they've assigned our class a custom user-r
 - [World Bank: 113 datasets](https://app.enigma.io/search/source/org.worldbank)
 - [NYC Open Data: multiple sources](https://app.enigma.io/search/source/us.states.ny)
 - [data.gov.uk: Gov. Spending, Home Sale Prices, and more](https://app.enigma.io/search/source/gov.uk)
+
+
+Dave's favorite shipping category that he learned about from Enigma:
+- [https://app.enigma.io/table/org.un.comtrade.68](https://app.enigma.io/table/org.un.comtrade.68)
