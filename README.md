@@ -26,7 +26,9 @@ Ed and Dave will hold regular office hours, and Chris will hold regular weekend 
 
 Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&continue=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&followup=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&scc=1), and slots can be signed up for electronically.
 
-Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electonically.
+Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electronically.
+
+Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12noon. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
 
 ### Submitting Assignments
 
