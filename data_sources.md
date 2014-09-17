@@ -2,6 +2,11 @@
 
 You may already have data that you're interested in working with. You may have an idea for scraping web data from some source, or for using data from an API such as Twitter's. There are lots of sources of data!
 
+* Dave and Ed's Favorites for Practice
+     * http://vincentarelbundock.github.io/Rdatasets/datasets.html Great, clean list of CSV's for training
+  
+
+
  * There are a variety of open data catalogs from various governments and NGOs:
      * [NYC Open Data](https://nycopendata.socrata.com/)
      * [DC Data Catalog](http://data.dc.gov/) / [OpenDataDC](http://www.opendatadc.org/)
