@@ -67,4 +67,6 @@
 
 * http://jakevdp.github.io/mpl_tutorial/
 * [Principles of Analytic Graphics](https://github.com/DataScienceSpecialization/courses/blob/master/04_ExploratoryAnalysis/Principles/PrinciplesofAnalyticGraphics.pdf?raw=true)
+* [Matplotlib Docs](http://matplotlib.org/users/pyplot_tutorial.html)
+* [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
 
