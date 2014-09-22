@@ -24,6 +24,8 @@
 
 ## After
 
+
+
 ## Resources
 
 * Review the [Data Exploration](https://sourcegraph.com/github.com/alpinedatalabs/ODST@master/.tree/notebooks) notebooks at ODST
