@@ -1,4 +1,4 @@
-### Assignment: "Data Visualiation with Pandas"
+### Assignment: "Data Visualization with Pandas"
 
 Updated Due Date: 9/22/2014
 
