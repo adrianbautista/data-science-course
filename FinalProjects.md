@@ -5,6 +5,7 @@
 
 * Project topic area determined
 * Sample data related to topic area accessed
+* Exploratory Data Analysis of your data set including visuals, subsets, acquistion notes, etc.
 * Well organized ipython notebook with code and output.
 * Presentation: Exploratory data presentation related to data
 

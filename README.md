@@ -6,7 +6,7 @@ Also linked to via the somewhat more memorable bit.ly/gadatascience
 
 ## Upcoming Project Activity:
 
-* 9/24/14, Wednesday: Dataset related to Project Due
+* 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
 * 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
 
 ### Getting Help
