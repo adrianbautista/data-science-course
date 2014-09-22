@@ -8,7 +8,7 @@
 * To understand what is Object Oriented Programming and how it plays a role in data science,
 * To understand Classes and subclassing
 * To understand other python/programming idioms: return, yield/iterator, loop, ternary, function, modules
-  
+
 ## Before
 
 * Python's [informal introduction to python](https://docs.python.org/2/tutorial/introduction.html) will walk you through the basics (one more time)
@@ -27,7 +27,7 @@
   * individual goals
   * current events
 
- 
+
 #### Python
 
 *[slides](slides.pdf)*
@@ -48,7 +48,7 @@
 * Functions, classes, modules
 	* `methods, self, inheritance, main(),__name__`
 * biological help
-  
+
 #### Specal Guest:
 
 [![](http://note.io/1xzQbMD)](http://www.meetup.com/nycpython/ "hi")
@@ -64,7 +64,7 @@
 	* Readable
 	* Highly restrictable
 	* Coordinating a number of pieces
-	* Exceptionally performant 
+	* Exceptionally performant
 
 * A model for OOP in Python
 	* Real World
@@ -84,11 +84,11 @@
 	* (R can't do Python)
 	* Python is better with strings
 	* Python can be used as an orchestrator
-	  
+
 
 ## After
 
-* Unhomework - [wordcount.py](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/lesson02_python/google-python/google-python-exercises/basic/wordcount.py)
+* Unhomework - [wordcount.py](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/02_python/google-python/google-python-exercises/basic/wordcount.py)
 * your coding blog
 * issues or questions
 * numpy and the matrix
