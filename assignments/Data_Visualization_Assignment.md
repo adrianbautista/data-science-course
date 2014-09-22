@@ -13,7 +13,7 @@ Updated Due Date: 9/22/2014
 **B. Advanced Plots** (optional)
 
 * Create a trellis plot from a dataset.  Explain the benefits of the trellis plot view.
-* Import Seaborn (or bokeh or vincent) and recreate your initial exploratory charts
+* Import another graphics library such as Seaborn (or bokeh or vincent) and recreate your initial exploratory charts
 
 **C. Highly Advanced** (optional)
 * Recreate the [finanial chart](http://matplotlib.org/users/screenshots.html#financial-charts) from the mpl demo.  See how far you can get.  You'll learn a tremendous amount on the nuances of MPL in each stage.
