@@ -6,9 +6,8 @@ Also linked to via the somewhat more memorable bit.ly/gadatascience
 
 ## Upcoming Project Activity:
 
-* 9/17/14 [Project Idea](project_idea_submission.md) Due
-* 9/24/14 Dataset related to Project Due
-* 10/1/14 Presentations with your data on Exploratory Data Analysis
+* 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
+* 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
 
 ### Getting Help
 
@@ -55,7 +54,7 @@ Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12
  
  **9/17/2014** : [Data Visualization in Python](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/05_Data_Visualization)
  
- **9/22/2014** : The A.C.E.S. Framework for Data Exploration
+ **9/22/2014** : [The A.C.E.S. Framework for Data Exploration](06_EDA/)
  
  **9/24/2014** : Hypothesis Testing with Data
  

@@ -4,7 +4,7 @@
 * Understand the importance of Exploratory Data Analysis
 * Be able to recite the steps of EDA, and explain each one, and implement each step with python
 * Use statistical methods and distributions to explain data
-* Be able to generate full 'explore' a given data set in 25 minutes.
+* Be able to produce an exploratory report on a given data set in one hour.
 
 ## Before
 * Complete the data visualization assignment
@@ -17,12 +17,14 @@
 
 ## During
 
-* Lecture on teh ACES framework
+* Lecture on the ACES framework
 * Code along with advanced data exploration
 * Independent and group work on data exploration
 
 
 ## After
+
+
 
 ## Resources
 

@@ -11,15 +11,15 @@
 
 * [Submit a file](https://drive.google.com/folderview?id=0B2_NWQOfrbk-eWN5SWItazBuSGc&usp=sharing) with your project idea, data sources, and audience
 
-* Review [Python and Numpy Exercises](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/lesson03_numpy) from the curriculum
+* Review [Python and Numpy Exercises](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/03_numpy) from the curriculum
 
 * Try out the [Official Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html): Wes & Company's selection of tutorials and lectures
 
 * Learn the basics of [markdown](http://daringfireball.net/projects/markdown/syntax)
-  
+
 ## During
 
-* We'll review dictionaries, lists, and data frames with this [notebook](http://nbviewer.ipython.org/github/teachingdatascience/data-science-course/blob/forstudentviewing/lesson04_pandas/lab04.ipynb).
+* We'll review dictionaries, lists, and data frames with this [notebook](http://nbviewer.ipython.org/github/teachingdatascience/data-science-course/blob/forstudentviewing/04_pandas/lab04.ipynb).
 * Given extra time, work through the "quiz" accessible [here](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/04_pandas/Lab_04_quiz.ipynb).
 
 
