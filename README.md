@@ -4,6 +4,9 @@
 
 Also linked to via the somewhat more memorable bit.ly/gadatascience
 
+## Unofficial Text(s)
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+
 ## Upcoming Project Activity:
 
 * 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
