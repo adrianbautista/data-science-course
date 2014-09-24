@@ -2,6 +2,13 @@
 
 Updated Due Date: 9/22/2014
 
+**Preliminary Work**
+
+Make sure and run all of the cells in the [data visualization](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/05_Data_Visualization/Data_Visualization_Lecture_Notes.ipynb) and the [EDA on Movies](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/06_EDA/EDA%20on%20Movies.ipynb) notebooks.
+
+Those provide all the basics you'll need.  Your comfort level with those notebooks is important.
+
+
 **A. Basic Plots**
 
 * Create an original histogram, lineplot, scatterplot, and scattermatrix from your data

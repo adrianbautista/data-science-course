@@ -4,12 +4,15 @@
 
 Also linked to via the somewhat more memorable bit.ly/gadatascience
 
+## Unofficial Text(s)
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+
 ## Upcoming Project Activity:
 
 * 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
 * 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
 
-### Getting Help
+## Getting Help
 
 **Github Issues**
 
@@ -29,7 +32,23 @@ Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?ss
 
 Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12noon. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
 
-### Submitting Assignments
+## Communication
+
+#### Watch the Github Repository
+
+In order to see issue notifications you need to 'watch' the github repository.
+
+You can tailor your settings to receive notifications via email, daily, weekly, etc.
+
+If you're not already "watching" the github repository, please do so.
+
+You can check the [watcher's list](https://github.com/TeachingDataScience/data-science-course/watchers) to see if you're on it.
+
+And if you're not on it, you just need sign in to github, and then to click the watch button from that same page.
+![](http://note.io/XQGFnA)
+
+
+## Submitting Assignments
 
 * Linkable assignments, such as gists, can be submitted by posting to [this submission form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform?usp=send_form).
 
