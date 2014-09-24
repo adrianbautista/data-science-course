@@ -1,5 +1,9 @@
 # Exploratory Data Analysis
 
+**Key Materials**
+
+* [Class Notebook](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/06_EDA/06_EDA_Main_Notebook.ipynb)
+
 ## Objectives
 * Understand the importance of Exploratory Data Analysis
 * Be able to recite the steps of EDA, and explain each one, and implement each step with python
