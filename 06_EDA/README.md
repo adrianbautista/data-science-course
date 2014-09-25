@@ -1,4 +1,5 @@
 # Exploratory Data Analysis
+![](http://pandas.pydata.org/pandas-docs/stable/_images/scatter_matrix_kde.png)
 
 * [In Class Notebook - Analyzing Movies](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/06_EDA/06_EDA_Main_Notebook.ipynb)
 
@@ -8,7 +9,6 @@
 * Be able to recite the steps of EDA, and explain each one, and implement each step with python
 * Be able to produce an exploratory report on a given data set in one hour.
   
-![](http://pandas.pydata.org/pandas-docs/stable/_images/scatter_matrix_kde.png)
 
 ## Core Concepts
 
