@@ -75,7 +75,7 @@ And if you're not on it, you just need sign in to github, and then to click the 
  
  **9/22/2014** : [The A.C.E.S. Framework for Data Exploration](06_EDA/)
  
- **9/24/2014** : Hypothesis Testing with Data
+ **9/24/2014** : [Hypothesis Testing with Data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/07_experimental_design)
  
  **9/29/2014** : Unit 1 Review
  
