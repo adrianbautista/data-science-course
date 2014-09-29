@@ -1,13 +1,11 @@
 # General Assembly Data Science Course - Fall 2014
 
-*This repo includes materials for the General Assembly Data Science course in NYC. Navigate the directory structure to find what you're looking for. The `README.md` files are often the most central in a directory, and will display by default when you navigate on github.*
-
-Also linked to via the somewhat more memorable bit.ly/gadatascience
-
-**Table of Contents** 
+*This repo includes materials for the General Assembly Data Science course in NYC. Navigate the directory structure to find what you're looking for. The `README.md` files are often the most central in a directory, and will display by default when you navigate on github. Also linked via bit.ly/gadatascience*
 
 
-- [General Assembly Data Science Course - Fall 2014](#user-content-general-assembly-data-science-course---fall-2014)
+
+## Navigation 
+
 	- [Unofficial Text(s)](#user-content-unofficial-texts)
 	- [Upcoming Project Activity:](#user-content-upcoming-project-activity)
 	- [Getting Help](#user-content-getting-help)
