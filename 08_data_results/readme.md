@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Data Results
 
 ## Objectives
 * How to analyze the distributions in your data with scatterplots and histograms
