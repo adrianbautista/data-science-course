@@ -77,28 +77,28 @@ And if you're not on it, you just need sign in to github, and then to click the 
  
  **9/24/2014** : [Hypothesis Testing with Data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/07_experimental_design)
  
- **9/29/2014** : Unit 1 Review
+ **9/29/2014** : [Data Results](08_data_results/)
  
- **10/1/2014** : Unit 1: Project Presentations / Intro To Machine Learning
+ **10/1/2014** : Unit 1: Project Presentations
  
  
 #### Unit 2: Machine Learning
  
- **10/6/2014** : TSA
+ **10/6/2014** : Intro to Machine Learning / Linear Models
  
- **10/8/2014** : Natural Language Processing
+ **10/8/2014** : Logistic Regression
  
- **10/13/2014** : Probability And Bayes
+ **10/13/2014** : Natural Language Processing
  
- **10/15/2014** : Linear Regression
+ **10/15/2014** : Probability And Bayes
  
- **10/20/2014** : Logistic Regression
+ **10/20/2014** : Decision Trees and Random Forests
  
- **10/22/2014** : Decision Trees and Random Forests
+ **10/22/2014** : PCA
  
- **10/27/2014** : PCA
+ **10/27/2014** : KNN and K-means
  
- **10/29/2014** : KNN and K-means
+ **10/29/2014** : Time Series - ARIMA and ANN
  
  **11/3/2014** : Machine Learning Review
  
