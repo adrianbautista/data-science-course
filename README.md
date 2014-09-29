@@ -6,71 +6,16 @@
 
 ## Navigation 
 
+- [Course Syllabus](#user-content-course-syllabus)
+	- [Unit 1: Exploratory Data Analysis with Python](#user-content-unit-1-exploratory-data-analysis-with-python)
+	- [Unit 2: Machine Learning](#user-content-unit-2-machine-learning)
+	- [Unit 3: Advanced Techniques and Data Communication](#user-content-unit-3-advanced-techniques-and-data-communication)
+- [Admin](#user-content-admin)
 	- [Unofficial Text(s)](#user-content-unofficial-texts)
 	- [Upcoming Project Activity:](#user-content-upcoming-project-activity)
 	- [Getting Help](#user-content-getting-help)
 	- [Communication](#user-content-communication)
-			- [Watch the Github Repository](#user-content-watch-the-github-repository)
 	- [Submitting Assignments](#user-content-submitting-assignments)
-	- [Course Syllabus](#user-content-course-syllabus)
-			- [Unit 1: Exploratory Data Analysis with Python](#user-content-unit-1-exploratory-data-analysis-with-python)
-			- [Unit 2: Machine Learning](#user-content-unit-2-machine-learning)
-			- [Unit 3: Advanced Techniques and Data Communication](#user-content-unit-3-advanced-techniques-and-data-communication)
-
-
-## Unofficial Text(s)
-* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
-
-## Upcoming Project Activity:
-
-* 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
-* 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
-
-## Getting Help
-
-**Github Issues**
-
-For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/TeachingDataScience/data-science-course/issues)
-
-* Chris will be reviewing each issue and will assign it to Ed, Dave or himself.
-* Students and other instructors following the repository will also be able to address the issue, improving response time.
-
-
-**Office Hours**
-
-Ed and Dave will hold regular office hours, and Chris will hold regular weekend sessions.
-
-Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&continue=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&followup=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&scc=1), and slots can be signed up for electronically.
-
-Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electronically.
-
-Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12noon. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
-
-## Communication
-
-#### Watch the Github Repository
-
-In order to see issue notifications you need to 'watch' the github repository.
-
-You can tailor your settings to receive notifications via email, daily, weekly, etc.
-
-If you're not already "watching" the github repository, please do so.
-
-You can check the [watcher's list](https://github.com/TeachingDataScience/data-science-course/watchers) to see if you're on it.
-
-And if you're not on it, you just need sign in to github, and then to click the watch button from that same page.
-![](http://note.io/XQGFnA)
-
-
-## Submitting Assignments
-
-* Linkable assignments, such as gists, can be submitted by posting to [this submission form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform?usp=send_form).
-
-<!--
-* Some assigments may require submitting via google drive.  These should include the student last name in the filename and be placed in the appropriate folder of the [submissions google drive folder](https://drive.google.com/a/scaleanalytics.com/#folders/0B2_NWQOfrbk-WWhWNHROaDQ2YU0).
--->
-
-
 
 
 ## Course Syllabus
@@ -135,5 +80,64 @@ And if you're not on it, you just need sign in to github, and then to click the 
  
 --> 
  
+
+## Admin
+
+### Unofficial Text(s)
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+
+### Upcoming Project Activity:
+
+* 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
+* 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
+
+### Getting Help
+
+**Github Issues**
+
+For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/TeachingDataScience/data-science-course/issues)
+
+* Chris will be reviewing each issue and will assign it to Ed, Dave or himself.
+* Students and other instructors following the repository will also be able to address the issue, improving response time.
+
+
+**Office Hours**
+
+Ed and Dave will hold regular office hours, and Chris will hold regular weekend sessions.
+
+Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&continue=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&followup=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&scc=1), and slots can be signed up for electronically.
+
+Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electronically.
+
+Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12noon. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
+
+### Communication
+
+#### Watch the Github Repository
+
+In order to see issue notifications you need to 'watch' the github repository.
+
+You can tailor your settings to receive notifications via email, daily, weekly, etc.
+
+If you're not already "watching" the github repository, please do so.
+
+You can check the [watcher's list](https://github.com/TeachingDataScience/data-science-course/watchers) to see if you're on it.
+
+And if you're not on it, you just need sign in to github, and then to click the watch button from that same page.
+![](http://note.io/XQGFnA)
+
+
+### Submitting Assignments
+
+* Linkable assignments, such as gists, can be submitted by posting to [this submission form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform?usp=send_form).
+
+<!--
+* Some assigments may require submitting via google drive.  These should include the student last name in the filename and be placed in the appropriate folder of the [submissions google drive folder](https://drive.google.com/a/scaleanalytics.com/#folders/0B2_NWQOfrbk-WWhWNHROaDQ2YU0).
+-->
+
+
+
+
+
  
  
