@@ -4,6 +4,22 @@
 
 Also linked to via the somewhat more memorable bit.ly/gadatascience
 
+**Table of Contents** 
+
+
+- [General Assembly Data Science Course - Fall 2014](#user-content-general-assembly-data-science-course---fall-2014)
+	- [Unofficial Text(s)](#user-content-unofficial-texts)
+	- [Upcoming Project Activity:](#user-content-upcoming-project-activity)
+	- [Getting Help](#user-content-getting-help)
+	- [Communication](#user-content-communication)
+			- [Watch the Github Repository](#user-content-watch-the-github-repository)
+	- [Submitting Assignments](#user-content-submitting-assignments)
+	- [Course Syllabus](#user-content-course-syllabus)
+			- [Unit 1: Exploratory Data Analysis with Python](#user-content-unit-1-exploratory-data-analysis-with-python)
+			- [Unit 2: Machine Learning](#user-content-unit-2-machine-learning)
+			- [Unit 3: Advanced Techniques and Data Communication](#user-content-unit-3-advanced-techniques-and-data-communication)
+
+
 ## Unofficial Text(s)
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 
