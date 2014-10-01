@@ -118,3 +118,18 @@ Causation is really unrealistic... "correlation does not equal causation"
 
 * Is this practical? If not, how close do you think they could have gotten?
 	- It's costly to find a larger group of participants in human studies so less practical.
+	
+===
+
+*09/29/14*
+
+## Data Results
+
+* finding linear relationships between the data  
+* but not everything is guaranteed to have a relationship
+
+
+#### how to know what to put on x-axis and what to put on y-axis
+
+* the y-axis should be dependent on x-axis
+* if I think brain weight informs how much REM sleep an animal gets, brain weight would be on the x-axis and REM sleep would be on the y-axis
