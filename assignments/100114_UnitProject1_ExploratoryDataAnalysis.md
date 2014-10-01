@@ -23,9 +23,7 @@
 
 **You will Submit**
 
-*   All code (language of their choice, but preferably Python)
-*   All data (preferably compressed in a text file, or the python code should be able to reproduce the dataset)
-*   Short deck in pdf format, including the short introductory piece.
+* An ipython notebook, well organized and formatted, including markdown, showcasing all of your code and outputs
 
 **Going the Extra Mile**
 
