@@ -15,7 +15,7 @@
 	- [Upcoming Project Activity:](#user-content-upcoming-project-activity)
 	- [Getting Help](#user-content-getting-help)
 	- [Communication](#user-content-communication)
-	- [Submitting Assignments](#user-content-submitting-assignments)
+	- [Assignments](#user-content-assignments)
 
 
 ## Course Syllabus
