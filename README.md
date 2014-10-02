@@ -127,7 +127,13 @@ And if you're not on it, you just need sign in to github, and then to click the 
 ![](http://note.io/XQGFnA)
 
 
-### Submitting Assignments
+### Assignments
+
+#### Assignment Folder
+
+* Instructions for each assignment is listed in the [assignments folder](assignments/)
+
+#### Submitting Assignments
 
 * Linkable assignments, such as gists, can be submitted by posting to [this submission form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform?usp=send_form).
 
