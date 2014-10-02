@@ -16,7 +16,6 @@ Please contact the instructor you've been assigned to and setup a meeting -- it 
 
 Once you've had a meeting, submit to the assignments form (just say "met" in the link form).
 
-Thanks!!
 
 
 ## Groups
