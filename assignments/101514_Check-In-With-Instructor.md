@@ -19,7 +19,7 @@ Once you've had a meeting, submit to the assignments form (just say "met" in the
 Thanks!!
 
 
-## Student groups
+## Groups
 
 
 
