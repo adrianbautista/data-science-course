@@ -85,6 +85,7 @@
 
 ### Unofficial Text(s)
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+* [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/)
 
 ### Upcoming Project Activity:
 
