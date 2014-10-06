@@ -15,7 +15,7 @@
 	- [Upcoming Project Activity:](#user-content-upcoming-project-activity)
 	- [Getting Help](#user-content-getting-help)
 	- [Communication](#user-content-communication)
-	- [Submitting Assignments](#user-content-submitting-assignments)
+	- [Assignments](#user-content-assignments)
 
 
 ## Course Syllabus
@@ -45,7 +45,7 @@
  
  **10/6/2014** : Intro to Machine Learning / Linear Models
  
- **10/8/2014** : Logistic Regression
+ **10/8/2014** : [Logistic Regression](10_logistic/)
  
  **10/13/2014** : Natural Language Processing
  
@@ -85,11 +85,8 @@
 
 ### Unofficial Text(s)
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+* [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/)
 
-### Upcoming Project Activity:
-
-* 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
-* 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
 
 ### Getting Help
 
@@ -127,7 +124,13 @@ And if you're not on it, you just need sign in to github, and then to click the 
 ![](http://note.io/XQGFnA)
 
 
-### Submitting Assignments
+### Assignments
+
+#### Assignment Folder
+
+* Instructions for each assignment is listed in the [assignments folder](assignments/)
+
+#### Submitting Assignments
 
 * Linkable assignments, such as gists, can be submitted by posting to [this submission form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform?usp=send_form).
 
