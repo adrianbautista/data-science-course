@@ -133,3 +133,21 @@ Causation is really unrealistic... "correlation does not equal causation"
 
 * the y-axis should be dependent on x-axis
 * if I think brain weight informs how much REM sleep an animal gets, brain weight would be on the x-axis and REM sleep would be on the y-axis
+
+===
+
+*10/01/14*
+
+## Machine Learning
+
+* similar to A.I., teaching a system to learn from data
+* two kinds - generalization v. representation
+* "features" really means columns
+* "K" used as a common variable
+
+#### supervised learning
+* know "y", 
+
+#### unsupervised learning
+* don't know "y"
+
