@@ -45,7 +45,7 @@
  
  **10/6/2014** : Intro to Machine Learning / Linear Models
  
- **10/8/2014** : Logistic Regression
+ **10/8/2014** : [Logistic Regression](10_logistic/)
  
  **10/13/2014** : Natural Language Processing
  
@@ -87,10 +87,6 @@
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 * [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/)
 
-### Upcoming Project Activity:
-
-* 9/24/14, Wednesday: [Dataset related to Project Due](assignments/092414_ProjectDataSet.md)
-* 10/1/14 Wednesday: Presentations with your data on Exploratory Data Analysis
 
 ### Getting Help
 
