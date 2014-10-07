@@ -1,4 +1,4 @@
-# Logistic Regression / Classification Review
+# Logistic Regression / Classification -- Basics
 
 
 Logistic Regression is a function approximation algorithm that uses training data to directly estimate P(Y|X). In this sense,
