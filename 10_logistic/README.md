@@ -76,6 +76,11 @@ Logistic Regression is a linear classifier over X. The linear classifiers produc
 (source: [Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf))
 
 
+
+
+**Note: In this class, a brief overview of the theoretical underpinnings is provided, along with links to the complete derivations and detailed mathematical concepts underlying the technique.  This "NTK" (Need-To-Know) philosophy will extend to additional machine learning techniques.  In applied data science, we want to know a) how to apply a technique, b) how to evaluate the efficacy of a technique and c) how a technique 'works'.  The 'why' it works, as well as the details and mathematics, can be left as references to seek out on an as-needed basis. **
+
+
 ### Recommended Resources on Logistic Regression
 
 | Title | Author | Type | Length | Difficulty | Description | Rating (1 to 4 Stars)
