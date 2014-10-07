@@ -151,3 +151,52 @@ Causation is really unrealistic... "correlation does not equal causation"
 #### unsupervised learning
 * don't know "y"
 
+===
+
+*10/06/14*
+
+## Linear Algebra
+
+### linear algebra
+
+* y = mx + b vs. y = Bx + p{+E}
+* can't plot a direct relationship, will always have some kind of error?
+* matrices of the same shape cannot be multipled together
+* X and all the others will be dependent on each other in producing Y
+
+### linear regression
+
+* the betas (β) => the coefficients
+* X in a linear regression formula will be our matrix?
+* transposing the matrix turns M x N into N x M 
+	*  X^T refers to the transposed matrix
+	*  β will be an array (list of coefficients)
+	
+### polynomial regression
+
+* if making a linear regression and you have an inverse fitness (negative R^2)... you're in trouble
+	* R^2 should be between {0, 1}
+	* ideally it should be closer to 1 	
+	* means that there is some really bad data in there
+* SSE => "sum squared errors"
+	* will be between {0, infinity} 
+	* MSE => "mean squared errors"
+	* MAE => "mean absolute errors"	
+	
+#### multicollinearity
+
+* if you're trying to predict 'GPA' you could use either income or income tax.. just depends what your hypothesis is.  pick one and then either leave the other one out or you could also replace it.. at this point you're just playing with what makes the  best model for your hypothesis
+* if your r^2 is very close to 1 then your model might have collinearity
+* if one coefficient is positive and the other negative, also a sign of multicollinearity
+* 
+	
+#### regularization vs. overfitting
+	
+* overfitting could be bad, because the model will not do well against new data
+	* complex and will slow down
+* L1 regularization used when lots of features
+* L2 regularization used for everything else
+
+
+
+	
