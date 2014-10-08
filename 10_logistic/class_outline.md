@@ -1,6 +1,5 @@
 # Logistic Regression/Classification
 
-### Overview
 
 
 ### Background 
