@@ -12,6 +12,8 @@ or, by removing the logistic function:
 ![](http://note.io/1sFEY79)
 
 from the equation, we can use:
+
+
 ![](http://note.io/1sFJJNX)
 
 We might also consider how logistic regression equations are linear in the logit scale:
@@ -74,6 +76,11 @@ Logistic Regression is a linear classifier over X. The linear classifiers produc
 (source: [Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf))
 
 
+
+
+*Note: In this class, a brief overview of the theoretical underpinnings is provided, along with links to the complete derivations and detailed mathematical concepts underlying the technique.  This "NTK" (Need-To-Know) philosophy will extend to additional machine learning techniques.  In applied data science, we want to know a) how to apply a technique, b) how to evaluate the efficacy of a technique and c) how a technique 'works'.  The 'why' it works, as well as the details and mathematics, can be left as references to seek out on an as-needed basis.*
+
+
 ### Recommended Resources on Logistic Regression
 
 | Title | Author | Type | Length | Difficulty | Description | Rating (1 to 4 Stars)
@@ -83,7 +90,6 @@ Logistic Regression is a linear classifier over X. The linear classifiers produc
 | [Logistic Regression Chapter](http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) | C Shalizi, CMU | PDF | 8 Pages | Advanced | Mathematical foundation for classification by logistic regression including maximizing likelihood discussion and derivation.  Good source for mathematical foundation | ++++
 | [Logistic Regression with Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html) | YHat |  Exercise/Tutorial | Estimated 1.5 hours | Medium | A good example to work through using statsmodels | ++++
 
-_Note: Please add and notate any additional resources you find helpful_
 
 
 
