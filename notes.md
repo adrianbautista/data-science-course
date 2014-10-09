@@ -197,6 +197,53 @@ Causation is really unrealistic... "correlation does not equal causation"
 * L1 regularization used when lots of features
 * L2 regularization used for everything else
 
+===
+
+*10/08/14*
+
+# Logistic regression
+
+## problems with linear regression
+
+* you could get more than 100% (not reality)
+* distorted by extremes in the data
+	* for example, what gets categorized in "above 50%"
+	* dangerous in a classification choice (binary, will be completely wrong)
+	* it could throw you in the wrong binary option ('like or dislike two-party system')
+
+## binary categorizations
+
+* from my own project:
+	* does "X" impact "Y"?
+	* hypothesis vs classification
+	* will a certain movie make over 1 billion dollars
+	* traits =>
+		* 3D movie or not 3D movie
+		* animated movie or not animated movie
+		
+## logistic regression
+
+* GLM (generalized linear model)
+* logistic regression gives you the probability that a given dataset will produce a target output
+* you want to have as few features as possible to get as accurate of a prediction as possible
+* in **supervised**, you will have information about the features and the targets
+* as it continues, would work towards a straight line* 
+
+## difference
+
+* the outcome variable can only take two values: [0, 1]
+* alpha is the shift 
+* beta is the slope
+* error term is also different (bernoulli dist - coin toss)
+
+## coefficients of logistic regression
+
+* only indicate if it has positive or negative effect, can't really measure magnitude
+* because its been transformed by a log function, you have to untransform it to observe magnitude
+* if you had categories (e.g. jobs where 1=plumber, 2=teacher)), you could break it up into binary variables
+	* to avoid it being treated on a scale
+	* like we did with the movie genres
+ 
 
 
-	
+	 
