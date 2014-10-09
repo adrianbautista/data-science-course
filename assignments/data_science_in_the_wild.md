@@ -12,7 +12,7 @@ Presenting students should check the syllabus for the class topic on their day.
 As an example, if the topic was "Linear Regression", the student might present any of the following:
 
 * A [recent study](http://cercor.oxfordjournals.org/content/early/2014/07/08/cercor.bhu137.short) leveraging linear regression for brain imaging.
-* An brief summary of a [recent blog post] that uses regression to analyze the stock market
+* An brief summary of a [recent blog post](http://www.advisorperspectives.com/dshort/updates/Regression-to-Trend.php) that uses regression to analyze the stock market
 * Explain a specific question you have about Linear Regression, how you tried to answer it, and why its interesting to you.
 * Provide an example of how the student hopes to use linear regression for their project
 
