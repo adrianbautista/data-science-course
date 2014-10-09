@@ -1,5 +1,6 @@
 ### Homework
 * Using the data from your project topic, choose a categorical target
+  * If necessary, change continiuous variable to categorical via a threshold, a la "data['affair'] = data['affairs'] > 1
 * Choose features to use to predict the target
 * Prepare an exploratory analysis of the features and target, include graphs.
 * Run a logistic regression on your target using the features
