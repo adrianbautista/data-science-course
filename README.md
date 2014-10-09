@@ -47,30 +47,30 @@
  
  **10/8/2014** : [Logistic Regression](10_logistic/)
  
- **10/13/2014** : Natural Language Processing
- 
- **10/15/2014** : Probability And Bayes
- 
- **10/20/2014** : Decision Trees and Random Forests
- 
- **10/22/2014** : PCA
- 
- **10/27/2014** : KNN and K-means
- 
- **10/29/2014** : Time Series - ARIMA and ANN
- 
- **11/3/2014** : Machine Learning Review
- 
- 
+**10/15/2014** :    Natural Language Processing
+
+**10/20/2014** :    Naive Bayes
+
+**10/22/2014** :    Decision Trees and Random Forests
+
+**10/27/2014** :  PCA, KNN
+
+**10/29/2014** :  K Means
+
+**11/3/2014** :   Unit II Project Presentations
+
 #### Unit 3: Advanced Techniques and Data Communication
- 
- **11/5/2014** : Distributed Processing
- 
- **11/10/2014** : Data Products
- 
- **11/12/2014** : Presentation Workshop
- 
- **11/17/2014** : Final Presentations
+
+**11/5/2014** :   Distributed Processing (Spark,AWS,Hadoop,Vowpal,etc.)
+
+**11/10/2014** :  Common Applications and Data Products
+
+**11/12/2014** :  Course Review
+
+**11/17/2014** :  Final Project Workshop
+
+**11/19/2014** :  Final Project Presentations!
+
  
  
  
