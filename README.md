@@ -47,6 +47,8 @@
  
  **10/8/2014** : [Logistic Regression](10_logistic/)
  
+ **10/13/2014** : *NO CLASS*
+ 
 **10/15/2014** :    Natural Language Processing
 
 **10/20/2014** :    Naive Bayes
