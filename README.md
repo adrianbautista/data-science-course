@@ -51,7 +51,7 @@
  
 **10/15/2014** :    Natural Language Processing
 
-**10/20/2014** :    Naive Bayes
+**10/20/2014** :    [Naive Bayes](12_Naive_Bayes)
 
 **10/22/2014** :    Decision Trees and Random Forests
 
