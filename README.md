@@ -26,9 +26,9 @@
  
  **9/8/2014** : Data Collection And Extraction
  
- **9/10/2014** : Numpy
+ **9/10/2014** : [Numpy](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/03_numpy)
  
- **9/15/2014** : Pandas
+ **9/15/2014** : [Pandas](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/04_pandas)
  
  **9/17/2014** : [Data Visualization in Python](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/05_Data_Visualization)
  
@@ -43,13 +43,13 @@
  
 #### Unit 2: Machine Learning
  
- **10/6/2014** : Intro to Machine Learning / Linear Models
+ **10/6/2014** : [Intro to Machine Learning / Linear Models](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/09_linear_regression)
  
  **10/8/2014** : [Logistic Regression](10_logistic/)
  
  **10/13/2014** : *NO CLASS*
  
-**10/15/2014** :    Natural Language Processing
+**10/15/2014** :    [Natural Language Processing](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/11_nltk)
 
 **10/20/2014** :    [Naive Bayes](12_Naive_Bayes)
 
@@ -108,7 +108,7 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
 
 Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electronically.
 
-Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12noon. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
+Chris' regular weekend sessions will be held at GA West on Saturdays from 10:30a-12:30p. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
 
 ### Communication
 
