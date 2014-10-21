@@ -1,6 +1,8 @@
 
 # Create a twitter sentiment classifier
 
+Due 10/28/14
+
 * Use with naive bayes and check the sentiment for a keyword of your choice.
 
 * You'll need your own twitter api key.
