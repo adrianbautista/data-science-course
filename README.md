@@ -1,6 +1,6 @@
 # General Assembly Data Science Course - Fall 2014
 
-*This repo includes materials for the General Assembly Data Science course in NYC. Navigate the directory structure to find what you're looking for. The `README.md` files are often the most central in a directory, and will display by default when you navigate on github. Also linked via bit.ly/gadatascience*
+*This repo includes materials for the General Assembly Data Science course in NYC. Navigate the directory structure to find what you're looking for. The `README.md` files are often the most central in a directory, and will display by default when you navigate on github. This page is also linked via bit.ly/gadatascience*
 
 
 
@@ -26,9 +26,9 @@
  
  **9/8/2014** : Data Collection And Extraction
  
- **9/10/2014** : Numpy
+ **9/10/2014** : [Numpy](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/03_numpy)
  
- **9/15/2014** : Pandas
+ **9/15/2014** : [Pandas](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/04_pandas)
  
  **9/17/2014** : [Data Visualization in Python](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/05_Data_Visualization)
  
@@ -43,34 +43,36 @@
  
 #### Unit 2: Machine Learning
  
- **10/6/2014** : Intro to Machine Learning / Linear Models
+ **10/6/2014** : [Intro to Machine Learning / Linear Models](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/09_linear_regression)
  
  **10/8/2014** : [Logistic Regression](10_logistic/)
  
- **10/13/2014** : Natural Language Processing
+ **10/13/2014** : *NO CLASS*
  
- **10/15/2014** : Probability And Bayes
- 
- **10/20/2014** : Decision Trees and Random Forests
- 
- **10/22/2014** : PCA
- 
- **10/27/2014** : KNN and K-means
- 
- **10/29/2014** : Time Series - ARIMA and ANN
- 
- **11/3/2014** : Machine Learning Review
- 
- 
+**10/15/2014** :    [Natural Language Processing](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/11_nltk)
+
+**10/20/2014** :    [Naive Bayes](12_Naive_Bayes)
+
+**10/22/2014** :    Decision Trees and Random Forests
+
+**10/27/2014** :  PCA, KNN
+
+**10/29/2014** :  K Means
+
+**11/3/2014** :   Unit II Project Presentations
+
 #### Unit 3: Advanced Techniques and Data Communication
- 
- **11/5/2014** : Distributed Processing
- 
- **11/10/2014** : Data Products
- 
- **11/12/2014** : Presentation Workshop
- 
- **11/17/2014** : Final Presentations
+
+**11/5/2014** :   Distributed Processing (Spark,AWS,Hadoop,Vowpal,etc.)
+
+**11/10/2014** :  Common Applications and Data Products
+
+**11/12/2014** :  Course Review
+
+**11/17/2014** :  Final Project Workshop
+
+**11/19/2014** :  Final Project Presentations!
+
  
  
  
@@ -106,7 +108,7 @@ Dave's office hours are posted [here](https://accounts.google.com/ServiceLogin?s
 
 Ed's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electronically.
 
-Chris' regular weekend sessions will be held at GA West on Saturdays from 10a-12noon. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
+Chris' regular weekend sessions will be held at GA West on Saturdays from 10:30a-12:30p. There is no need to sign up, but if you have something specific you want to discuss, feel free to [email me](mailto:rwc.sheehan@gmail.com?subject=DAT13%20Office%20Hours) ahead of time.
 
 ### Communication
 
