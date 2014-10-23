@@ -55,9 +55,9 @@
 
 **10/22/2014** :    Decision Trees and Random Forests
 
-**10/27/2014** :  PCA, KNN
+**10/27/2014** :  PCA, KPCA
 
-**10/29/2014** :  K Means
+**10/29/2014** :  K Means, KNN
 
 **11/3/2014** :   Unit II Project Presentations
 
