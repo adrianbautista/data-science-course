@@ -244,6 +244,57 @@ Causation is really unrealistic... "correlation does not equal causation"
 	* to avoid it being treated on a scale
 	* like we did with the movie genres
  
+===
+
+*10/22/14*
+
+# Decision Trees
+
+- logistic regression is a linear model
+- if you have a computer try to develop the optimal decision tree, it will do so forever
+- if playing 21 questions, depending on who and what order the people asking are put in, will develop different trees
+- decision trees are being greedy/heuristic... what's the fastest/quickest way to get to the answer
 
 
-	 
+## algorithm process
+
+- remove samples as much as possible
+- remove data it doesn't have to classify
+- which features can easily remove data (e.g. "removable lens for camera types")
+- hunter's algorithm
+- can tell the computer guidelines when developing decision tree (max nodes/leaves, min nodes, min samples, optimize against a function)
+- a better model does okay on both training set and test set vs. does awesome on the training set vs. the test set
+- we want to generalize our model (particularily with data we haven't seen yet)
+- pruning an already built tree if it's too specific, introduce some impurity (instead of declaring it is a penguin, it produces 60% likelihood it is a penguin)
+
+## random forest
+
+- give different features and number of observations to different decision trees
+- so don't have to do cross-validation, training since its randomized
+- more accurate, interpretative
+- good with large datasets
+- great for hadoop clouds since each hadoop server gets a different tree
+
+## random number generators
+
+- sourced from time, heat of cpu, sometimes amount of random
+- also has many seeds (set of random numbers the computer will use)
+- so if you forget to set `random_state`, people who try to replicate your training and testing set will get something different
+
+
+## decision tree sklearn
+
+- criterion gini and entropy usually result in similar outcomes
+- min_sample_leaf: needs to have at least 5 samples in that option to make a decision
+- "accuracy" = number of correct / number of observations
+	- correct means how accurate was its prediction in classifying the data
+- "confusion matrix" (actual columns, prediction row), shows true positives and false positives, true negatives and false negatives
+
+### positive rates
+
+- false positive rate = (false positives)/(all negatives)
+- true positive rate = (true positives)/(positives)
+- with these two rates, you have an X,Y coordinate
+	- measure the area under the curve (AUC) as the "score" of how well the algorithm does
+	- most accurate would be an area of 1 
+		- since connecting (0,0) to (1,1) using (0,1) as the only point in between
