@@ -53,9 +53,9 @@
 
 **10/20/2014** :    [Naive Bayes](12_Naive_Bayes)
 
-**10/22/2014** :    Decision Trees and Random Forests
+**10/22/2014** :    [Decision Trees and Random Forests](13_decision_trees)
 
-**10/27/2014** :  PCA, KPCA
+**10/27/2014** :  [PCA, KPCA](14_pca)
 
 **10/29/2014** :  [K Means, KNN](15_kmeans)
 
