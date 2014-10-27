@@ -3,14 +3,14 @@
 
 Due 10/29/14
 
-1) Use the provided [training data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes/twitter_training) to create a twitter sentiment classifier.
+1) Use the provided [training data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes/twitter_training) to create a twitter sentiment classifier using Naive Bayes.
 
 
 2) Describe the resulting sentiment from a topic on Twitter (using your own API key)
 
-
 3) Summarize your work
 
+4) Create additional classifiers using 1 or more other supervised algorithms.  Note any differences in performance or output.
 
 ### Additional Notes
 
