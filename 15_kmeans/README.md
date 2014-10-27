@@ -17,28 +17,28 @@ Here's some resources to get started:
 | [K-Means Clustering](https://www.youtube.com/watch?v=0MQEt10e4NM) | Mathematical Monk | Video | 15 minute | Novice | Good Kahn style overview of math | +++
 | [K-Means Wikipedia Entry](http://en.wikipedia.org/wiki/K-means_clustering) | Everyone | Wikipedia | 6 pages | Intermediate | Includes Iris and 'mickey mouse' we'll be looking at. | ++
 
-[Class Lecture](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson13_kmeans/GA13_Lecture_Kmeans_v2.pdf?raw=true)
+[Class Lecture](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/Lecture_Kmeans_v2.pdf?raw=true)
 
-[Link to View Notebooks](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Lectures/tree/master/lessons/lesson13_kmeans/)
+[Link to View Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/tree/forstudentviewing/15_kmeans/)
 
 ### Notebooks
 _located in the repo or in html here:_
  
  
-[GA13_SimpleKMeansDemo.ipynb](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson13_kmeans/GA13_SimpleKMeansDemo.ipynb)
+[GA13_SimpleKMeansDemo.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/SimpleKMeansDemo.ipynb)
 * Basic code for applying k-means and creating data using 'blobs'
 
-[GA13_KMeans_ImageCompression.ipynb](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson13_kmeans/GA13_KMeans_ImageCompression.ipynb)
+[GA13_KMeans_ImageCompression.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/KMeans_ImageCompression.ipynb)
 * Illustration of KMeans for image compression
 
-[GA13_K-means_ErrorsAndDimensions.ipynb](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson13_kmeans/GA13_K-means_ErrorsAndDimensions.ipynb)
+[GA13_K-means_ErrorsAndDimensions.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/K-means_ErrorsAndDimensions.ipynb)
 * More advanced k-means with synthetic data illustrating aspects of dimensionality
 
-[GA13_KMeans_CountryData.ipynb](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson13_kmeans/GA13_KMeans_CountryData.ipynb)
+[GA13_KMeans_CountryData.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/KMeans_CountryData.ipynb)
 * Rough illustration of k-means with country data
  
  
-[How to use k-means on OCR to get $400 million from Google](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson13_kmeans/GA13_OCR_Demo.ipynb)
+[How to use k-means on OCR to get $400 million from Google](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/OCR_Demo.ipynb)
  
 
 
