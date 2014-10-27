@@ -28,9 +28,6 @@ _located in the repo or in html here:_
 [GA13_SimpleKMeansDemo.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/SimpleKMeansDemo.ipynb)
 * Basic code for applying k-means and creating data using 'blobs'
 
-[GA13_KMeans_ImageCompression.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/KMeans_ImageCompression.ipynb)
-* Illustration of KMeans for image compression
-
 [GA13_K-means_ErrorsAndDimensions.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/K-means_ErrorsAndDimensions.ipynb)
 * More advanced k-means with synthetic data illustrating aspects of dimensionality
 
