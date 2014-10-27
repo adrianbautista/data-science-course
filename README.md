@@ -57,7 +57,7 @@
 
 **10/27/2014** :  PCA, KPCA
 
-**10/29/2014** :  K Means, KNN
+**10/29/2014** :  [K Means, KNN](15_kmeans)
 
 **11/3/2014** :   Unit II Project Presentations
 
