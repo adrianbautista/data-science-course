@@ -1,7 +1,7 @@
 
 # Create and use a twitter sentiment classifier
 
-Due 10/28/14
+Due 10/29/14
 
 1) Use the provided [training data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes/twitter_training) to create a twitter sentiment classifier.
 
