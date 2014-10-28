@@ -59,7 +59,7 @@
 
 **10/29/2014** :  [K Means, KNN](15_kmeans)
 
-**11/3/2014** :   Unit II Project Presentations
+**11/3/2014** :   [Unit II Project Presentations](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/assignments/110214_Unit_II_Project_Supervised_Learning.md)
 
 #### Unit 3: Advanced Techniques and Data Communication
 
