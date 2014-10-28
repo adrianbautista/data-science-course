@@ -78,10 +78,9 @@ Stepping back from the scoring metrics, would you intuitively say that your clas
 
 You'll be briefly (@3 minutes) presenting your projects in small groups on that class day, so come prepared
 
-####Material
+####Relevant Course Material
 
- 
-**Lesson material of use for completing project**
+Review the notebooks and markdown files from these lessons for examples and background needed to complete your Unit II project.
 
 [Hypothesis Testing with Data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/07_experimental_design)
  
@@ -96,5 +95,6 @@ You'll be briefly (@3 minutes) presenting your projects in small groups on that 
 [Naive Bayes](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes)
 
 [Decision Trees and Random Forests](1https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/13_decision_trees)
+
 
 
