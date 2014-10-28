@@ -3,8 +3,8 @@
 For this assignment please answer the following questions (in a linkable markdown file or a gist):
 
 * If your dataset has changed since the first project, quickly describe your new dataset.
-* What is the data problem you are looking to address?
-* What is your hypothesis?
+* What is the target you are trying to predict?
+* What features will you use to predict your target?
 
 
 Reminder: the project itself will be due the following Monday, November 3.
