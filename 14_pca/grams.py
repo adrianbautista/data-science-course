@@ -20,9 +20,15 @@ Y['gram'] = map(lambda x: x.split('.')[0] in
 # About 31% gram positive
 print 'fraction gram positive:', np.mean(Y.gram)
 
+# THROW ALL THE DATA INTO THE TREE IN 1 NODE. FIND ME THE ONE BEST FEATURE THAT EXISTED ALREADY
+# about 83.7% accurate
+
 tree = DecisionTreeClassifier(max_depth=1)
 tree.fit(X, Y.gram)
 print 'stump accuracy on all data:', tree.score(X, Y.gram)
+
+# LETS USE ALL THE DATA AND FIND ONE COMPONENT THAT EXPLAINS THE VARIANCE.
+# about 95% accurate using new feature
 
 pca = PCA(n_components=1)
 X1 = pca.fit_transform(X)

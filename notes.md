@@ -298,3 +298,63 @@ Causation is really unrealistic... "correlation does not equal causation"
 	- measure the area under the curve (AUC) as the "score" of how well the algorithm does
 	- most accurate would be an area of 1 
 		- since connecting (0,0) to (1,1) using (0,1) as the only point in between
+		
+===
+
+*10/27/14*
+
+# Principal Components Analysis
+
+## pre-class questions
+
+- Why would we prefer not to have correlated features? For OLS regression, what happens when two features are identical? What happens when they're almost identical (highly correlated)?
+	- may not want correlated features because you can get **multicollinierity**
+	- could end up with negative coefficients
+- What are the possible costs/benefits of having more features rather than fewer? What is a "good" number of features?
+	- can have over-fitting
+	- can become more complex and reduce runtime
+	- but having more distinct features could produce a more accurate model
+
+## feature selection
+
+- R^2: measures quality
+- p-values: significance of variable
+
+### automating the feature selection process
+
+- random forest: finds importance measures
+- could also remove a feature at a time and check the score, feature selection:
+
+```
+for f in features:
+	remove f
+	run model
+	score it
+	if better?
+		rerun func
+```
+
+- feature extraction (creating new features from the data?), find the numbers that explain the **variances** and use those as the features.
+
+### principal component extraction and feature extraction
+
+- think image compression (how the outputted/compressed image represents the majority of the OG's image variance)
+- it becomes less intuitive because the features are not representative
+- used in unsupervised learnings since the categories for the data are not known yet (not labeled), so you cluster the data by parameters to develop natural labels?
+
+> In supervised learning the classes are known in advance and also their types, for instance, two classes good and bad customers. When new object(customer) comes on the basis of its attributes the customer can be assigned to bad or good customer class.
+> 
+> In unsupervised learning the groups/classes are not already known, we have objects (customers), so group the customers having similar buying habits hence different groups are made of the customers i.e. not known already on the basis of similar habits of buying.
+
+- PCA and the whole process will produce an order of how significant the features are
+- the general rule is to cut off at a particular rule
+- the other general rule is the **elbow rule**
+- PCA works well with normally distributed (linear) data
+
+### kernal tricks
+
+- type of linear transformation that trick it into appearing normally distributed
+- if `x = y`, `` x` = y` ``
+
+
+
