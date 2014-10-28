@@ -94,7 +94,7 @@ Review the notebooks and markdown files from these lessons for examples and back
 
 [Naive Bayes](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes)
 
-[Decision Trees and Random Forests](1https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/13_decision_trees)
+[Decision Trees and Random Forests](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/13_decision_trees)
 
 
 
