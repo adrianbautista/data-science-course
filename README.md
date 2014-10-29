@@ -19,7 +19,7 @@
 
 
 ## Course Syllabus
- 
+
 #### Unit 1: Exploratory Data Analysis with Python
 
  **9/3/2014** : Introduction To Data Science
@@ -57,7 +57,7 @@
 
 **10/27/2014** :  [PCA, KPCA](14_pca)
 
-**10/29/2014** :  [K Means, KNN](15_kmeans)
+**10/29/2014** :  [K Means](15_kmeans)
 
 **11/3/2014** :   [Unit II Project Presentations](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/assignments/110214_Unit_II_Project_Supervised_Learning.md)
 
