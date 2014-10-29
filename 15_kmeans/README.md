@@ -19,24 +19,9 @@ Here's some resources to get started:
 
 [Class Lecture](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/Lecture_Kmeans_v2.pdf?raw=true)
 
-[Link to View Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/tree/forstudentviewing/15_kmeans/)
-
 ### Notebooks
-_located in the repo or in html here:_
- 
- 
-[GA13_SimpleKMeansDemo.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/SimpleKMeansDemo.ipynb)
-* Basic code for applying k-means and creating data using 'blobs'
 
-[GA13_K-means_ErrorsAndDimensions.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/K-means_ErrorsAndDimensions.ipynb)
-* More advanced k-means with synthetic data illustrating aspects of dimensionality
-
-[GA13_KMeans_CountryData.ipynb](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/KMeans_CountryData.ipynb)
-* Rough illustration of k-means with country data
+[Link to View Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/tree/forstudentviewing/15_kmeans/)
  
  
-[How to use k-means on OCR to get $400 million from Google](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/15_kmeans/OCR_Demo.ipynb)
- 
-
-
 
