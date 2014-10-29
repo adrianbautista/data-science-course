@@ -19,7 +19,7 @@
 
 
 ## Course Syllabus
- 
+
 #### Unit 1: Exploratory Data Analysis with Python
 
  **9/3/2014** : Introduction To Data Science
@@ -53,13 +53,13 @@
 
 **10/20/2014** :    [Naive Bayes](12_Naive_Bayes)
 
-**10/22/2014** :    Decision Trees and Random Forests
+**10/22/2014** :    [Decision Trees and Random Forests](13_decision_trees)
 
-**10/27/2014** :  PCA, KPCA
+**10/27/2014** :  [PCA, KPCA](14_pca)
 
-**10/29/2014** :  [K Means, KNN](15_kmeans)
+**10/29/2014** :  [K Means](15_kmeans)
 
-**11/3/2014** :   Unit II Project Presentations
+**11/3/2014** :   [Unit II Project Presentations](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/assignments/110214_Unit_II_Project_Supervised_Learning.md)
 
 #### Unit 3: Advanced Techniques and Data Communication
 

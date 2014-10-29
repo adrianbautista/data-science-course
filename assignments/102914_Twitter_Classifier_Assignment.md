@@ -1,22 +1,22 @@
 
 # Create and use a twitter sentiment classifier
 
-Due 10/28/14
+Due 10/29/14
 
-1) Use the provided [training data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes/twitter_training) to create a twitter sentiment classifier.
+1) Use the provided [training data](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/12_Naive_Bayes/twitter_training) to create a twitter sentiment classifier using Naive Bayes.  
 
 
 2) Describe the resulting sentiment from a topic on Twitter (using your own API key)
 
-
 3) Summarize your work
 
+4) Create additional classifiers using 1 or more other supervised algorithms.  Note any differences in performance or output.
 
 ### Additional Notes
 
 * The training data includes tweets (your "X") which are classified with sentiment ("Y")  use these and Naive Bayes to create a classifier
+* You may convert the target data to binary (positive / negative) to simplify the outcome.
 * You'll then collect new data from Twitter and run it through the completed classifier to see how the classifier rates it.  
-
 * You'll need your own twitter api key which you get by signing in to twitter (and then searching for api key), and creating an 'application'
 * Note that it doesn't matter what you call your application or what the urls you type in are.
 * See the "OAuth" section from the NLTK lesson notebook for the tweet acquisition paradigm.
