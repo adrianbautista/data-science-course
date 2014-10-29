@@ -22,6 +22,10 @@ Here's some resources to get started:
 ### Notebooks
 
 [Link to View Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/tree/forstudentviewing/15_kmeans/)
+
+### KNN
+
+[KNN Demo](http://sleepyheads.jp/apps/knn/knn.html)
  
  
 
