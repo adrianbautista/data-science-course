@@ -63,9 +63,9 @@
 
 #### Unit 3: Advanced Techniques and Data Communication
 
-**11/5/2014** :   Distributed Processing (Spark,AWS,Hadoop,Vowpal,etc.)
+**11/5/2014** :  Databases
 
-**11/10/2014** :  Common Applications and Data Products
+**11/10/2014** :  Data Products
 
 **11/12/2014** :  Course Review
 
