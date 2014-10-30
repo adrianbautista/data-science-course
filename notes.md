@@ -356,5 +356,55 @@ for f in features:
 - type of linear transformation that trick it into appearing normally distributed
 - if `x = y`, `` x` = y` ``
 
+===
+
+*10/29/14*
+
+# k-means
+
+## k-nearest neighbors algorithm (k-NN)
+
+- based on nearest neighbors
+- if k-NN 1, predict based off of closest neighbor
+- if k-NN 3, predict based off of most common among the 3 closest neighbors (example, if 1st closet neighbor is iPhone and the next 2 are android, would estimate the given point as android)
+- the higher the k-NN, the more "accurate" is meant to be
+- it's in SK library, could be used instead of naive-bayes
+- k-NN is meant for **supervised** and **categorical** data
+- k-NN is greedy because it's just about closet-ness?
+	- a greedy algorithm works with what's infront of it, can't really imagine what lies beyond the tree? 
+
+## k-means
+
+- k-means is for **unsupervised** and **categorical** data
+- how?
+	- select K points as initial centroids
+	- repeat
+		- form k clusters by assigning each point to its closest centroidd
+		- recompute the centroid of each cluster
+	- until cnetroids do not change
+- when do we stop and decide number K of clusters? few ways to decide:
+	- max distance between centroids
+	- minimize the points within a cluster
+	- do it till you hit an elbow when reducing the "cost" 
+	
+### issues
+
+#### different scales in different dimensions
+
+- if variance is extremely different by different dimensions (imagine 3 flat clusters), could be problematic 
+
+#### non-convex data
+
+- centroid gets stuck in a pool?
+
+
+## misc
+
+- [sci-kit learn map](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- top is supervised
+- bottom is supervised
+- left is categorical
+- right is continuous/ordinal
+ 
 
 
