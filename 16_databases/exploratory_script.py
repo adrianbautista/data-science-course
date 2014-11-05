@@ -48,8 +48,8 @@ t = Twitter(
     )
 
 
-for h in ['#justsayyes', '#taylorswift']
-    results = t.search.tweets(q='#justsayyes', count=100, result_type='mixed')
+for hashtag in ['#justsayyes', '#taylorswift']
+    results = t.search.tweets(q=hashtag, count=100, result_type='mixed')
     for r in results['statuses']:
         try:
             row = {
