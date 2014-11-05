@@ -5,7 +5,7 @@
 Using data from your project topic, create a supervised learning model to predict a target variable.
 
 **Submit:**
-You'll turn in (to the assignments form) a link to a formatted ipython notebook - preferably on your github account as a gist or in a repo.  Be sure to run all cells in the notebook before turning it in.  Your notebook should include markdown headings and be well commented.  
+You'll turn in [to the assignments form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform) a link to a formatted ipython notebook - preferably on your github account as a gist or in a repo.  Be sure to run all cells in the notebook before turning it in.  Your notebook should include markdown headings and be well commented.  
 
 Your notebook should contain the following sections:
 
