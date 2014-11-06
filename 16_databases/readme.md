@@ -96,6 +96,8 @@ PRACTICE: Given joins, how would we approach the last question from the start of
 
 psycopg2 ('psycho pig 2') is the primary connector engine for postgres and python. Docs are [here](http://initd.org/psycopg/docs/).
 
+*Note: [This fix](http://mithun.co/hacks/library-not-loaded-libcrypto-1-0-0-dylib-issue-in-mac/) may be helpful for those with dylib issues on the mac*
+
 **Other noteworthy connectors**:
 
 [dataset](http://dataset.readthedocs.org/en/latest/api.html) is an incredibly simple orm wrapper around SQLAlchemy. If you feel frustrated in class with psycopg2, try out dataset.
