@@ -96,7 +96,12 @@ PRACTICE: Given joins, how would we approach the last question from the start of
 
 psycopg2 ('psycho pig 2') is the primary connector engine for postgres and python. Docs are [here](http://initd.org/psycopg/docs/).
 
-*Note: [This fix](http://mithun.co/hacks/library-not-loaded-libcrypto-1-0-0-dylib-issue-in-mac/) may be helpful for those with dylib issues on the mac*
+
+*Note: First try this line from the terminal for anaconda installation
+`conda install -c https://conda.binstar.org/alefnula/psycopg2`
+
+*If you still have issues, try [This fix](http://mithun.co/hacks/library-not-loaded-libcrypto-1-0-0-dylib-issue-in-mac/) may be helpful for those with dylib issues on the mac*
+
 
 **Other noteworthy connectors**:
 
