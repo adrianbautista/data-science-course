@@ -97,7 +97,7 @@ PRACTICE: Given joins, how would we approach the last question from the start of
 psycopg2 ('psycho pig 2') is the primary connector engine for postgres and python. Docs are [here](http://initd.org/psycopg/docs/).
 
 
-*Note: First try this line from the terminal for anaconda installation
+*Note: First try this line from the terminal for anaconda installation.  This fix works for mac users at least.
 
 `conda install -c https://conda.binstar.org/alefnula psycopg2`
 
