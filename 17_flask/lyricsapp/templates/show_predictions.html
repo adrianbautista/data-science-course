@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+{% block body %}
+    <form action="{{ url_for('add_prediction') }}" method=post class=add-prediction>
+
+{#
+Note that the form action is set to the url for a function.
+
+That url is specified buy the route in lyricsapp.py as /add
+#}
+        <dl>
+            <dt>Lyrics: 
+            <dd><textarea name=lyrics rows=5 cols=40></textarea>
+            <dd><input type=submit value=Predict>
+        </dl>
+        {# Note that the form returns via 'request.form' to flask the
+        key: "lyrics" and the associated value when the button is
+        clicked.   
+
+
+        #}
+    </form>
+    <ul class=predictions>
+    {% for prediction in predictions %}
+        <li><h3>{{ prediction.lyrics}}</h3>{{ prediction.artist|safe }}
+    {% else %}
+        <li><em>No predictions yet. Try it out!</em>
+    {% endfor %}
+    </ul>
+{% endblock %}

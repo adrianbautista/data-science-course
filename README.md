@@ -65,7 +65,7 @@
 
 **11/5/2014** :  [Databases](16_databases)
 
-**11/10/2014** :  Data Products
+**11/10/2014** :  Data Products ([flask](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/17_flask), [maps](http://note.io/10Nu46d) )
 
 **11/12/2014** :  Course Review
 
