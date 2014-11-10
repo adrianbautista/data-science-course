@@ -1,4 +1,5 @@
-# Additional Notes for a Previous Iteration of the App -- Good links and explanations here.
+# Additional Notes
+#### (For a Previous Iteration of the App -- Good links and explanations here)
 
 ## Where We are Going
 Demonstrate a clean copy of the flask application. We can refer to this for help along the way with coding.
