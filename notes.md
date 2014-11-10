@@ -406,5 +406,22 @@ for f in features:
 - left is categorical
 - right is continuous/ordinal
  
+===
 
+*11/05/14*
+
+# databases
+
+- indexing: the database engine already knows where to look based on the filter or update query
+	- great for IDs/keys (joined columns)
+	- fields frequently filtered on (common `where` columns)
+- ETL: OLTP (online transaction processing) => OLAP (online analytic processing)
+	- partioning common
+	- [pentaho](http://community.pentaho.com/projects/data-integration/) a common ETL tool 
+- median not a common SQL query because it can't be run linearly
+
+## psycopg2
+
+- cursors don't execute automatically, `execute` starts running the query, then `fetchall()` will get the result of the query
+- if you want dictionary results instead of a list of tuples
 
