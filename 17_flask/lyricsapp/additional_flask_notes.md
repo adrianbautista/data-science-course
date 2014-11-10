@@ -1,25 +1,11 @@
-# Notes for Lecture #17 - Flask
+# Notes
 
-## Where We are Going (5 mins)
+## Where We are Going
 Demonstrate a clean copy of the flask application. We can refer to this for help along the way with coding.
 
-We will be going from A - Z. Some elements will be basic depending on student experience, others will be new. Everyone should be able to build the same web application by the end of class.
-
-The students will code:
-
-* The artist classifier
-* The views for the web application
-	* Includes database SELECT and INSERT statements 
-
-The following code is provided but should be stepped through:
-
-* The templates/*.html documents
-* The style/static.css document
-* The schema.sql document
-* The database initialization and connection routines in lyricsapp.py
 
 
-## Nomenclature Slides (10 mins)
+## Nomenclature 
 General Web Terms:
 
 * [Cookies](http://en.wikipedia.org/wiki/HTTP_cookie)
@@ -45,34 +31,19 @@ New Python Terms:
 * Pickle
 * [Decorators](http://www.artima.com/weblogs/viewpost.jsp?thread=240808)
 
-## Explain Data (5 min)
+## Data Explanation
+
 Mention the following:
 
 * Where the data came from
 	* [musiXmatch](http://labrosa.ee.columbia.edu/millionsong/), part of the [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/)
 	
-* What the .csv looks like
 
-		Artist,Lyrics
-		"Lady Gaga","i i i i i the the you ..."
-	
- 
-* 611 unique tracks
-	* 314 Beatles tracks
-	* 266 Rolling Stones tracks
-	* 31 Lady Gaga tracks
-
-## Explore the Project Folder Structure (5 min)
-
-	$ unzip lyricsapp_skeleton.zip
-	$ cd lyricsapp
-	$ ls
-	lyrics.csv		lyrics_classifier.py		lyricsapp.py         msd                  	schema.sql      static               		templates
 	
 The ``templates`` and ``static`` directories for Flask. The ``msd`` directory contains helper Python routines to ensure input lyrics are stemmed the same way as in the Million Song Dataset.
 
 	
-## Create a Classifier Class (45 min)
+## Create a Classifier Class 
 Define the following in lyrics_classifier.py. The skeleton has all of the definitions but most need to be populated.
 
 	"""Lyrics classifier for Flask application"""
@@ -181,7 +152,7 @@ Define the following in lyrics_classifier.py. The skeleton has all of the defini
 			
 	# end of LyricsClf class
 
-## Use LyricsClf Before Building the Web App (10 mins)
+## Using LyricsClf from the CLI
 We will use our new class right from the Python interpreter. After showing that it works, we will pickle it for use with the web app.
 
 	$ python
@@ -193,7 +164,7 @@ We will use our new class right from the Python interpreter. After showing that 
 	>>> lclf.save('classifier.p')
 	>>> quit()
 	
-## Review the Basic Web App Database Routines (5 mins)
+## Review the Basic Web App Database Routines
 Edit lyricsapp.py and look at ``connect_db``, ``get_db`` and ``init_db``. All of the code is provided to students.
 
 ## Prepare the Database from the Schema (5 mins)
@@ -216,7 +187,7 @@ The instructor may wish to show this in sqlite3 (don't expect every student to h
 	2|artist|text|1||0
 	sqlite> .quit
 	
-## First test of the App (2 mins)
+## App testing
 The application should load and present the interface, but the prediction form shouldn't do anything because the ``/add`` endpoint is incomplete.
 
 	$ python lyricsapp.py
@@ -267,24 +238,4 @@ Run the application now and it should work:
 	 * Running on http://127.0.0.1:5000/
 	 * Restarting with reloader
 
-## Lyric Cribsheet
-Use any of these to test predictions if you're short on ideas:
 
-	i want your love and i want your revenge you and me could have a bad romance
-
-	yellow submarine octopus penny lane hold your hand woke up got out of bed
-
-	sweet virginia tumbling dice crossfire hurricane
-
-	once upon a time you dressed so fine threw the bums a dime in your prime didn't you
- 
-	once upon a time you dressed so fine how does it feel to be on your own like a
-
-	yo vip let's kick it ice ice baby stop collaborate and listen
-	
-## Next Steps
-Consider these questions:
-
-* How would you add a login and logout feature to the application?
-* How would you normalize the database to avoid redundancy in the artists column?
-	* Consider how this may conflict with the way we mapped artists to labels in the ``LyricsClf`` class 
