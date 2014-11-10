@@ -1,4 +1,4 @@
-# Notes
+# Additional Notes for a Previous Iteration of the App -- Good links and explanations here.
 
 ## Where We are Going
 Demonstrate a clean copy of the flask application. We can refer to this for help along the way with coding.
@@ -169,7 +169,7 @@ We will use our new class right from the Python interpreter. After showing that 
 ## Review the Basic Web App Database Routines
 Edit lyricsapp.py and look at ``connect_db``, ``get_db`` and ``init_db``. All of the code is provided to students.
 
-## Prepare the Database from the Schema (5 mins)
+## Prepare the Database from the Schema 
 
 	$ python
 	>>> from lyricsapp import init_db
