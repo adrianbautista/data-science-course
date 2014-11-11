@@ -8,7 +8,9 @@ For the "Data Mapping" Notebook:
   
 * Change the name of the html map files that you render to view them inline each time.
 
-### Hosted Software: [http://www.cartodb.com](cartodb.com)
+### Hosted Software: 
+
+[CartoDB](http://www.cartodb.com)
 
 Python's Folium library (used in the notebook) and other API's are powerful and allow to do anything you might want with your geo-data.  That said, CartoDB provides an excellent hosted resource for much of the map analytics you might want to do, and has an API as well, its worth a look for inspiration or to use for your applications.  There is a free tier and GA students interested in more via an educational license should email the instructor. 
  
