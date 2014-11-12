@@ -115,7 +115,7 @@ def add_prediction():
         [lyrics, artistName])
     # Note: question marks above are for safety and speed via 'parameterized queries'
     db.commit()
-    flash('Prediction was successfully posted')
+    flash('Prediction was successfully posted. Hurray!!!')
     # another example where the framework is omnipotent: url_for()
     return redirect(url_for('show_predictions'))
 # end of add_prediction()
