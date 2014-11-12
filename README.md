@@ -65,7 +65,7 @@
 
 **11/5/2014** :  [Databases](16_databases)
 
-**11/10/2014** :  Data Products ([flask](https://github.com/TeachingDataScience/data-science-course/blob/forstudentviewing/17_flask/Flask_Lyrics_Classifier.ipynb), [maps](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/18_maps) )
+**11/10/2014** :  Data Products ([flask](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/17_flask), [maps](https://github.com/TeachingDataScience/data-science-course/tree/forstudentviewing/18_maps) )
 
 **11/12/2014** :  Course Review
 
