@@ -267,6 +267,12 @@ Causation is really unrealistic... "correlation does not equal causation"
 - we want to generalize our model (particularily with data we haven't seen yet)
 - pruning an already built tree if it's too specific, introduce some impurity (instead of declaring it is a penguin, it produces 60% likelihood it is a penguin)
 
+## test-train-split
+
+- split arbitrary based off of a random number
+- but by using a specific seed, everyone who runs the split will have the same split
+
+
 ## random forest
 
 - give different features and number of observations to different decision trees
@@ -424,4 +430,57 @@ for f in features:
 
 - cursors don't execute automatically, `execute` starts running the query, then `fetchall()` will get the result of the query
 - if you want dictionary results instead of a list of tuples
+
+===
+
+*11/12/14*
+
+# review
+
+- supervised => making predictions
+- unsupervised => discovering patterns
+
+
+|              | continuous          | categorical    
+|--------------|---------------------|----------------
+| supervised   | regression          | classification 
+| unsupervised | dimension reduction | clustering           
+
+
+
+|              | continuous          | categorical    
+|--------------|---------------------|----------------
+| color   | RGB-values          | [red, blue]
+| ratings | 1 - 10 rating | Good / Bad     
+
+|              | testing your prediction                  
+|--------------|---------------------
+| supervised   | accuracy, etc.
+| unsupervised | are the clusters different from each other, are the content of a cluster as similar as they can be
+
+
+
+## classification
+
+### knn (k-nearest-neighbor)
+
+*+ means good, - means bad*
+
+|              | KNN | logistic | NB | RF | SVM
+|--------------|---------------------|---|---|
+| linear   | no | yes (because the ranges at the decision points can go to infinite) | yes | yes | yes/no (can use kernal tricks)
+| scalability | +/- (there are certain implementations that try to address this (local vs global)) | because its order function is linear | + | - | -
+| interpretation | - | + | + | - | -
+| configuration | + | + | + | + | -
+| feature-select | - | + | + | + | -
+| overfitting | >K (overfitting becomes a problem with too many K, less predictive when too little K) | L1/L2 | prior (??) | n tree | c-cost
+
+### svm (support vector machine)
+
+- algebra + geometry
+- where can data be separated by a vector
+- kernal tricks will transform data into a different dimension space, it looks like a linear relationship
+	- (with logistic regression, you get coefficients, so you can see if it's a positive or negative impact despite the logistic transformation)
+- cost (how we generalize) => it's okay that some datapoints are miscategorized
+- popular because given a situation where you're not interpretating the result values and ability to explain, gaining predictive power (can't explain why). good for making a decision (ex. buying an ad space in a flash)
 
