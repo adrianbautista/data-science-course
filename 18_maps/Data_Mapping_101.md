@@ -1,9 +1,5 @@
----
-layout: page
-title: Mapping Location Data and Chloropleths from Python
-description:
-type: material
----
+
+# Mapping Location Data and Chloropleths from Python
 
 We'll begin with the [Folium](https://folium.readthedocs.org) library as it
 brings together a number of current geotools together with the Pandas data
@@ -48,6 +44,9 @@ collection.
     import geopy
 
 
+    import folium as fm
+
+
     
 
 
@@ -57,12 +56,21 @@ collection.
     from IPython.display import HTML
 
 
+    
+
+
+    
+
+
+    
+
+
     # Set address
     addy="10 E 21 St,New York, NY"
     address, (latitude,longitude) = geolocator.geocode(addy)
     print(address, latitude, longitude)
 
-    (u'10 East 21st Street, New York, NY 10010, USA', 40.7400191, -73.9900873)
+    (u'10 East 21st Street, New York, NY 10010, USA', 40.739884, -73.9900754)
 
 
 
@@ -82,7 +90,13 @@ Core concepts:
     
 
 
-    folium.Map?
+    # Set address
+    addy="65 Court Street, Brooklyn"
+    address, (latitude,longitude) = geolocator.geocode(addy)
+    print(address, latitude, longitude)
+
+    (u'65 Court Street, Brooklyn, NY 11201, USA', 40.691713, -73.9909351)
+
 
 
     # Establish a map centered at lat/long, set "tiles" and zoom levels
@@ -92,15 +106,15 @@ Core concepts:
     map_ourmap.circle_marker(location=[latitude,longitude],radius=200,fill_opacity=0.5,fill_color='#3186cc')
     
     # Make the map!
-    map_ourmap.create_map(path='ourmap.html')
+    map_ourmap.create_map(path='ourmap7.html')
     
     # Display the map inline
-    HTML('<iframe src=ourmap.html width=800 height = 500><iframe>')
+    HTML('<iframe src=ourmap7.html width=800 height = 500><iframe>')
 
 
 
 
-<iframe src=ourmap.html width=800 height = 500><iframe>
+<iframe src=ourmap7.html width=800 height = 500><iframe>
 
 
 
@@ -127,12 +141,12 @@ Choropleth = Chloro (Area/Region) + Pleth (quantity)
 
 
 
-    <matplotlib.axes.AxesSubplot at 0x1068b2c90>
+    <matplotlib.axes._subplots.AxesSubplot at 0x106fa1d90>
 
 
 
 
-![png](Data_Mapping_101_files/Data_Mapping_101_21_1.png)
+![png](Data_Mapping_101_files/Data_Mapping_101_25_1.png)
 
 
 
@@ -146,16 +160,16 @@ Choropleth = Chloro (Area/Region) + Pleth (quantity)
                  key_on='feature.id',
                  fill_color='RdPu', fill_opacity=0.65, line_opacity=0.5,
                  legend_name='Unemployment Rate (%)')
-    map.create_map(path='us_states.html')
+    map.create_map(path='us_states2.html')
 
 
     # Display the map inline
-    HTML('<iframe src=us_states.html width=1000 height = 500><iframe>')
+    HTML('<iframe src=us_states2.html width=1000 height = 500><iframe>')
 
 
 
 
-<iframe src=us_states.html width=1000 height = 500><iframe>
+<iframe src=us_states2.html width=1000 height = 500><iframe>
 
 
 
@@ -176,6 +190,26 @@ Features: Countries of the World
 
     #Initialize a data frame
     df = pd.DataFrame()
+
+
+    df
+
+
+
+
+<div style="max-height:1000px;max-width:1500px;overflow:auto;">
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+</div>
+
+
 
 
     # Include two columns of interest:
@@ -535,12 +569,12 @@ Features: Countries of the World
 
 
 
-    <matplotlib.text.Text at 0x107056650>
+    <matplotlib.text.Text at 0x107df0b10>
 
 
 
 
-![png](Data_Mapping_101_files/Data_Mapping_101_34_1.png)
+![png](Data_Mapping_101_files/Data_Mapping_101_39_1.png)
 
 
 
@@ -682,7 +716,7 @@ array-oriented scientific data.
     plt.show()
 
 
-![png](Data_Mapping_101_files/Data_Mapping_101_47_0.png)
+![png](Data_Mapping_101_files/Data_Mapping_101_52_0.png)
 
 
 
