@@ -2,12 +2,19 @@
 
 ###Note: 
 
-The notebook has a few bugs -- if you find them, please add to the issues.
+For the "Data Mapping" Notebook:
 
-* You need to download the ipynb file (the raw file) and run it on your own machine (via ipython notebook) to view the whole thing.
+* Download the ipynb file (the raw file) and run it on your own machine (via ipython notebook) to view the whole thing.  
   
-* You'll also need to change the name of the html map files that you render to view them inline each time.
+* Change the name of the html map files that you render to view them inline each time.
+
+### Hosted Software: 
+
+[CartoDB](http://www.cartodb.com)
+
+Python's Folium library (used in the notebook) and other API's are powerful and allow to do anything you might want with your geo-data.  That said, CartoDB provides an excellent hosted resource for much of the map analytics you might want to do, and has an API as well, its worth a look for inspiration or to use for your applications.  There is a free tier and GA students interested in more via an educational license should email the instructor. 
  
+# Map School
 
 _Credit: The below includes selected excerpts from [Map School](http://www.macwright.org/mapschool/) with some modifications and additions. See the original Map School site for additional details_
 
