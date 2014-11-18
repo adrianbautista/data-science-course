@@ -1,9 +1,9 @@
 # Final Project Output
 
 * Each student will have a maximum of 5 minutes to present their project.  
-* Rather than slides, students will images and text from their 'client facing notebook' as a visual aide.  
-* There will be no q&A, but students are encouraged to leave comments for their colleagues in the issues.
 * On Tuesday night, students will post a link to their client-facing notebook on the 'issues' page of the repository, so other students can follow along.  The title of the issue will be the title of the repository.  As a reminder, ipynb file links can be entered into http://nbviewer.ipython.org/ for rendering to html.
+* Rather than slides, students will show images and text from their 'client facing notebook' as a visual aide.  
+* There will be no q&A, but audience and students are encouraged to leave comments for their colleagues in the issues.
 
 ## Client-Facing Notebook 
 
