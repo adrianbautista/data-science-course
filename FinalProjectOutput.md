@@ -1,5 +1,12 @@
 # Final Project Output
 
+Student final projects will consist of a 
+* Presentation
+* "Client-Facing" Notebook
+* Developer Notebook
+
+## Presentation
+
 * Each student will have a maximum of 5 minutes to present their project.  
 * On Tuesday night, students will post a link to their client-facing notebook on the 'issues' page of the repository, so other students can follow along.  The title of the issue will be the title of the repository.  As a reminder, ipynb file links can be entered into http://nbviewer.ipython.org/ for rendering to html.
 * Rather than slides, students will show images and text from their 'client facing notebook' as a visual aide.  
