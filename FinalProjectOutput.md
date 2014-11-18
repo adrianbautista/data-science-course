@@ -7,7 +7,7 @@
 
 ## Client-Facing Notebook 
 
-A clean notebook notebook with text, code and images which could be understood by a reader such as yourself prior to taking this course.  Include as many images as you can, provided you include a brief explanation of them or they are self explanatory.  Feel free to include code, but ensure that it is explained via text.  There is no need to include all of the code, as that will be present in the developer notebook.
+A clean notebook notebook with text, code and images which could be understood by a reader such as yourself prior to taking this course.  Include as many images as you can, provided you include a brief explanation of them or they are self explanatory.  Feel free to include code, but ensure that it is explained, _briefly_, via text.  There is no need to include all of the code, as that will be present in the developer notebook.
 
 _Please upload the notebook link to the [class submissions form](https://docs.google.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/viewform) and create an ['issue'](https://github.com/TeachingDataScience/data-science-course/issues) for it as well which includes the link._
 
@@ -58,7 +58,7 @@ Feel free to err on the side of inclusion, in terms of code snippets, plots and 
 
 You might want to include (paste in) the headings from your client-facing notebook as well.
 
-_Submit the link to the notebook on the [course submission form](https://docs.google.com/a/scaleanalytics.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/edit)
+_Submit the link to the notebook on the [course submission form](https://docs.google.com/a/scaleanalytics.com/forms/d/1TzvQCYruLcTLzfCQBcjhp7INLZWvwErCqTaFCU7LhpE/edit)_
 
 
 
