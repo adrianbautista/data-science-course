@@ -37,3 +37,16 @@ A clean notebook notebook with text, code and images which could be understood b
 * Explanation of Results
 
 #### Analysis 2 (etc.)
+
+### Conclusions
+
+Recap the motivation and overall results
+
+### Next Steps
+
+What are some follow up analyses that might be interesting?
+
+### Resources
+
+Include links to your developer's notebook and any other sources that you'd like.
+
